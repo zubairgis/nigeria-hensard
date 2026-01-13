@@ -1,0 +1,2401 @@
+iso3c,country,year,indicator,value,indicator_label
+BEN,Benin,2000,gdp_pc_current_usd,487.4241414,GDP per capita (current US$)
+BEN,Benin,2000,gdp_pc_const2015_usd,861.213292,GDP per capita (constant 2015 US$)
+BEN,Benin,2000,gdp_growth_pct,5.857714205,GDP growth (annual %)
+BEN,Benin,2000,gni_pc_atlas_usd,450,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2000,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+BEN,Benin,2000,gcf_pct_gdp,18.72600357,Gross capital formation (% of GDP)
+BEN,Benin,2000,fdi_net_inflows_pct,-0.363490759,FDI net inflows (% of GDP)
+BEN,Benin,2000,trade_pct_gdp,47.3481515,Trade (% of GDP)
+BEN,Benin,2001,gdp_pc_current_usd,492.4014995,GDP per capita (current US$)
+BEN,Benin,2001,gdp_pc_const2015_usd,879.8544638,GDP per capita (constant 2015 US$)
+BEN,Benin,2001,gdp_growth_pct,5.333135706,GDP growth (annual %)
+BEN,Benin,2001,gni_pc_atlas_usd,510,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2001,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+BEN,Benin,2001,gcf_pct_gdp,19.06306631,Gross capital formation (% of GDP)
+BEN,Benin,2001,fdi_net_inflows_pct,0.456588184,FDI net inflows (% of GDP)
+BEN,Benin,2001,trade_pct_gdp,48.25717064,Trade (% of GDP)
+BEN,Benin,2002,gdp_pc_current_usd,546.4638297,GDP per capita (current US$)
+BEN,Benin,2002,gdp_pc_const2015_usd,893.137101,GDP per capita (constant 2015 US$)
+BEN,Benin,2002,gdp_growth_pct,4.643030871,GDP growth (annual %)
+BEN,Benin,2002,gni_pc_atlas_usd,510,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2002,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+BEN,Benin,2002,gcf_pct_gdp,16.91268416,Gross capital formation (% of GDP)
+BEN,Benin,2002,fdi_net_inflows_pct,-0.462423415,FDI net inflows (% of GDP)
+BEN,Benin,2002,trade_pct_gdp,43.76842254,Trade (% of GDP)
+BEN,Benin,2003,gdp_pc_current_usd,676.0028781,GDP per capita (current US$)
+BEN,Benin,2003,gdp_pc_const2015_usd,896.1467632,GDP per capita (constant 2015 US$)
+BEN,Benin,2003,gdp_growth_pct,3.443576776,GDP growth (annual %)
+BEN,Benin,2003,gni_pc_atlas_usd,570,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2003,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+BEN,Benin,2003,gcf_pct_gdp,17.5433639,Gross capital formation (% of GDP)
+BEN,Benin,2003,fdi_net_inflows_pct,0.198870349,FDI net inflows (% of GDP)
+BEN,Benin,2003,trade_pct_gdp,41.61623056,Trade (% of GDP)
+BEN,Benin,2004,gdp_pc_current_usd,758.6958038,GDP per capita (current US$)
+BEN,Benin,2004,gdp_pc_const2015_usd,907.6244312,GDP per capita (constant 2015 US$)
+BEN,Benin,2004,gdp_growth_pct,4.429684554,GDP growth (annual %)
+BEN,Benin,2004,gni_pc_atlas_usd,690,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2004,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+BEN,Benin,2004,gcf_pct_gdp,16.08666085,Gross capital formation (% of GDP)
+BEN,Benin,2004,fdi_net_inflows_pct,-0.658688596,FDI net inflows (% of GDP)
+BEN,Benin,2004,trade_pct_gdp,39.90297434,Trade (% of GDP)
+BEN,Benin,2005,gdp_pc_current_usd,779.4377778,GDP per capita (current US$)
+BEN,Benin,2005,gdp_pc_const2015_usd,893.9153687,GDP per capita (constant 2015 US$)
+BEN,Benin,2005,gdp_growth_pct,1.713164564,GDP growth (annual %)
+BEN,Benin,2005,gni_pc_atlas_usd,780,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2005,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+BEN,Benin,2005,gcf_pct_gdp,15.04108686,Gross capital formation (% of GDP)
+BEN,Benin,2005,fdi_net_inflows_pct,-0.133820369,FDI net inflows (% of GDP)
+BEN,Benin,2005,trade_pct_gdp,39.09593119,Trade (% of GDP)
+BEN,Benin,2006,gdp_pc_current_usd,809.1470725,GDP per capita (current US$)
+BEN,Benin,2006,gdp_pc_const2015_usd,900.6205358,GDP per capita (constant 2015 US$)
+BEN,Benin,2006,gdp_growth_pct,3.943738828,GDP growth (annual %)
+BEN,Benin,2006,gni_pc_atlas_usd,810,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2006,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+BEN,Benin,2006,gcf_pct_gdp,14.16144095,Gross capital formation (% of GDP)
+BEN,Benin,2006,fdi_net_inflows_pct,-0.175764668,FDI net inflows (% of GDP)
+BEN,Benin,2006,trade_pct_gdp,39.77469871,Trade (% of GDP)
+BEN,Benin,2007,gdp_pc_current_usd,912.3382472,GDP per capita (current US$)
+BEN,Benin,2007,gdp_pc_const2015_usd,926.7401138,GDP per capita (constant 2015 US$)
+BEN,Benin,2007,gdp_growth_pct,5.986349322,GDP growth (annual %)
+BEN,Benin,2007,gni_pc_atlas_usd,870,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2007,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+BEN,Benin,2007,gcf_pct_gdp,17.05747393,Gross capital formation (% of GDP)
+BEN,Benin,2007,fdi_net_inflows_pct,1.703869735,FDI net inflows (% of GDP)
+BEN,Benin,2007,trade_pct_gdp,49.11378415,Trade (% of GDP)
+BEN,Benin,2008,gdp_pc_current_usd,1060.602545,GDP per capita (current US$)
+BEN,Benin,2008,gdp_pc_const2015_usd,943.2033803,GDP per capita (constant 2015 US$)
+BEN,Benin,2008,gdp_growth_pct,4.896577084,GDP growth (annual %)
+BEN,Benin,2008,gni_pc_atlas_usd,970,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2008,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+BEN,Benin,2008,gcf_pct_gdp,15.84500887,Gross capital formation (% of GDP)
+BEN,Benin,2008,fdi_net_inflows_pct,0.49256299,FDI net inflows (% of GDP)
+BEN,Benin,2008,trade_pct_gdp,47.77535927,Trade (% of GDP)
+BEN,Benin,2009,gdp_pc_current_usd,1024.102779,GDP per capita (current US$)
+BEN,Benin,2009,gdp_pc_const2015_usd,936.5656511,GDP per capita (constant 2015 US$)
+BEN,Benin,2009,gdp_growth_pct,2.319292139,GDP growth (annual %)
+BEN,Benin,2009,gni_pc_atlas_usd,1020,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2009,inflation_cpi_pct,0.896072356,"Inflation, consumer prices (annual %)"
+BEN,Benin,2009,gcf_pct_gdp,16.56555047,Gross capital formation (% of GDP)
+BEN,Benin,2009,fdi_net_inflows_pct,-0.193121765,FDI net inflows (% of GDP)
+BEN,Benin,2009,trade_pct_gdp,44.70262906,Trade (% of GDP)
+BEN,Benin,2010,gdp_pc_current_usd,973.2442549,GDP per capita (current US$)
+BEN,Benin,2010,gdp_pc_const2015_usd,928.2466553,GDP per capita (constant 2015 US$)
+BEN,Benin,2010,gdp_growth_pct,2.114064726,GDP growth (annual %)
+BEN,Benin,2010,gni_pc_atlas_usd,1020,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2010,inflation_cpi_pct,2.207835325,"Inflation, consumer prices (annual %)"
+BEN,Benin,2010,gcf_pct_gdp,17.64999674,Gross capital formation (% of GDP)
+BEN,Benin,2010,fdi_net_inflows_pct,0.561144748,FDI net inflows (% of GDP)
+BEN,Benin,2010,trade_pct_gdp,51.43085995,Trade (% of GDP)
+BEN,Benin,2011,gdp_pc_current_usd,1059.413589,GDP per capita (current US$)
+BEN,Benin,2011,gdp_pc_const2015_usd,927.7164128,GDP per capita (constant 2015 US$)
+BEN,Benin,2011,gdp_growth_pct,2.963752919,GDP growth (annual %)
+BEN,Benin,2011,gni_pc_atlas_usd,1030,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2011,inflation_cpi_pct,2.704239077,"Inflation, consumer prices (annual %)"
+BEN,Benin,2011,gcf_pct_gdp,18.226328,Gross capital formation (% of GDP)
+BEN,Benin,2011,fdi_net_inflows_pct,1.508440505,FDI net inflows (% of GDP)
+BEN,Benin,2011,trade_pct_gdp,47.21702881,Trade (% of GDP)
+BEN,Benin,2012,gdp_pc_current_usd,1071.525837,GDP per capita (current US$)
+BEN,Benin,2012,gdp_pc_const2015_usd,943.9187715,GDP per capita (constant 2015 US$)
+BEN,Benin,2012,gdp_growth_pct,4.811223316,GDP growth (annual %)
+BEN,Benin,2012,gni_pc_atlas_usd,1050,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2012,inflation_cpi_pct,6.744682533,"Inflation, consumer prices (annual %)"
+BEN,Benin,2012,gcf_pct_gdp,16.2040296,Gross capital formation (% of GDP)
+BEN,Benin,2012,fdi_net_inflows_pct,2.527057773,FDI net inflows (% of GDP)
+BEN,Benin,2012,trade_pct_gdp,50.73673678,Trade (% of GDP)
+BEN,Benin,2013,gdp_pc_current_usd,1168.926993,GDP per capita (current US$)
+BEN,Benin,2013,gdp_pc_const2015_usd,982.3992063,GDP per capita (constant 2015 US$)
+BEN,Benin,2013,gdp_growth_pct,7.191433721,GDP growth (annual %)
+BEN,Benin,2013,gni_pc_atlas_usd,1140,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2013,inflation_cpi_pct,0.428888889,"Inflation, consumer prices (annual %)"
+BEN,Benin,2013,gcf_pct_gdp,20.70826275,Gross capital formation (% of GDP)
+BEN,Benin,2013,fdi_net_inflows_pct,2.878637471,FDI net inflows (% of GDP)
+BEN,Benin,2013,trade_pct_gdp,59.20019183,Trade (% of GDP)
+BEN,Benin,2014,gdp_pc_current_usd,1204.399187,GDP per capita (current US$)
+BEN,Benin,2014,gdp_pc_const2015_usd,1014.433006,GDP per capita (constant 2015 US$)
+BEN,Benin,2014,gdp_growth_pct,6.357679098,GDP growth (annual %)
+BEN,Benin,2014,gni_pc_atlas_usd,1180,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2014,inflation_cpi_pct,-0.548757551,"Inflation, consumer prices (annual %)"
+BEN,Benin,2014,gcf_pct_gdp,21.6376627,Gross capital formation (% of GDP)
+BEN,Benin,2014,fdi_net_inflows_pct,3.054209933,FDI net inflows (% of GDP)
+BEN,Benin,2014,trade_pct_gdp,65.26827494,Trade (% of GDP)
+BEN,Benin,2015,gdp_pc_current_usd,1002.418869,GDP per capita (current US$)
+BEN,Benin,2015,gdp_pc_const2015_usd,1002.418869,GDP per capita (constant 2015 US$)
+BEN,Benin,2015,gdp_growth_pct,1.77815106,GDP growth (annual %)
+BEN,Benin,2015,gni_pc_atlas_usd,1100,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2015,inflation_cpi_pct,0.218785924,"Inflation, consumer prices (annual %)"
+BEN,Benin,2015,gcf_pct_gdp,20.49573923,Gross capital formation (% of GDP)
+BEN,Benin,2015,fdi_net_inflows_pct,1.315011821,FDI net inflows (% of GDP)
+BEN,Benin,2015,trade_pct_gdp,56.75631318,Trade (% of GDP)
+BEN,Benin,2016,gdp_pc_current_usd,1010.533896,GDP per capita (current US$)
+BEN,Benin,2016,gdp_pc_const2015_usd,1006.039266,GDP per capita (constant 2015 US$)
+BEN,Benin,2016,gdp_growth_pct,3.339673426,GDP growth (annual %)
+BEN,Benin,2016,gni_pc_atlas_usd,1040,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2016,inflation_cpi_pct,-0.793310146,"Inflation, consumer prices (annual %)"
+BEN,Benin,2016,gcf_pct_gdp,19.72249305,Gross capital formation (% of GDP)
+BEN,Benin,2016,fdi_net_inflows_pct,1.11488131,FDI net inflows (% of GDP)
+BEN,Benin,2016,trade_pct_gdp,58.98692834,Trade (% of GDP)
+BEN,Benin,2017,gdp_pc_current_usd,1054.974081,GDP per capita (current US$)
+BEN,Benin,2017,gdp_pc_const2015_usd,1032.904712,GDP per capita (constant 2015 US$)
+BEN,Benin,2017,gdp_growth_pct,5.671561952,GDP growth (annual %)
+BEN,Benin,2017,gni_pc_atlas_usd,1020,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2017,inflation_cpi_pct,0.043264856,"Inflation, consumer prices (annual %)"
+BEN,Benin,2017,gcf_pct_gdp,23.4384504,Gross capital formation (% of GDP)
+BEN,Benin,2017,fdi_net_inflows_pct,1.581704952,FDI net inflows (% of GDP)
+BEN,Benin,2017,trade_pct_gdp,61.47659696,Trade (% of GDP)
+BEN,Benin,2018,gdp_pc_current_usd,1151.74097,GDP per capita (current US$)
+BEN,Benin,2018,gdp_pc_const2015_usd,1071.504522,GDP per capita (constant 2015 US$)
+BEN,Benin,2018,gdp_growth_pct,6.697253622,GDP growth (annual %)
+BEN,Benin,2018,gni_pc_atlas_usd,1120,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2018,inflation_cpi_pct,0.919170718,"Inflation, consumer prices (annual %)"
+BEN,Benin,2018,gcf_pct_gdp,25.90056276,Gross capital formation (% of GDP)
+BEN,Benin,2018,fdi_net_inflows_pct,1.360735733,FDI net inflows (% of GDP)
+BEN,Benin,2018,trade_pct_gdp,61.79519449,Trade (% of GDP)
+BEN,Benin,2019,gdp_pc_current_usd,1130.821353,GDP per capita (current US$)
+BEN,Benin,2019,gdp_pc_const2015_usd,1114.173045,GDP per capita (constant 2015 US$)
+BEN,Benin,2019,gdp_growth_pct,6.865686628,GDP growth (annual %)
+BEN,Benin,2019,gni_pc_atlas_usd,1170,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2019,inflation_cpi_pct,0.732849371,"Inflation, consumer prices (annual %)"
+BEN,Benin,2019,gcf_pct_gdp,25.17325563,Gross capital formation (% of GDP)
+BEN,Benin,2019,fdi_net_inflows_pct,1.516207809,FDI net inflows (% of GDP)
+BEN,Benin,2019,trade_pct_gdp,63.68133231,Trade (% of GDP)
+BEN,Benin,2020,gdp_pc_current_usd,1200.194266,GDP per capita (current US$)
+BEN,Benin,2020,gdp_pc_const2015_usd,1126.654041,GDP per capita (constant 2015 US$)
+BEN,Benin,2020,gdp_growth_pct,3.8487924,GDP growth (annual %)
+BEN,Benin,2020,gni_pc_atlas_usd,1190,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2020,inflation_cpi_pct,3.022721197,"Inflation, consumer prices (annual %)"
+BEN,Benin,2020,gcf_pct_gdp,25.20651739,Gross capital formation (% of GDP)
+BEN,Benin,2020,fdi_net_inflows_pct,1.109344141,FDI net inflows (% of GDP)
+BEN,Benin,2020,trade_pct_gdp,44.83323338,Trade (% of GDP)
+BEN,Benin,2021,gdp_pc_current_usd,1318.651581,GDP per capita (current US$)
+BEN,Benin,2021,gdp_pc_const2015_usd,1176.377276,GDP per capita (constant 2015 US$)
+BEN,Benin,2021,gdp_growth_pct,7.155451646,GDP growth (annual %)
+BEN,Benin,2021,gni_pc_atlas_usd,1280,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2021,inflation_cpi_pct,1.733539627,"Inflation, consumer prices (annual %)"
+BEN,Benin,2021,gcf_pct_gdp,28.44744444,Gross capital formation (% of GDP)
+BEN,Benin,2021,fdi_net_inflows_pct,1.956086611,FDI net inflows (% of GDP)
+BEN,Benin,2021,trade_pct_gdp,48.05486083,Trade (% of GDP)
+BEN,Benin,2022,gdp_pc_current_usd,1266.42711,GDP per capita (current US$)
+BEN,Benin,2022,gdp_pc_const2015_usd,1218.496689,GDP per capita (constant 2015 US$)
+BEN,Benin,2022,gdp_growth_pct,6.252947054,GDP growth (annual %)
+BEN,Benin,2022,gni_pc_atlas_usd,1360,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2022,inflation_cpi_pct,1.350778636,"Inflation, consumer prices (annual %)"
+BEN,Benin,2022,gcf_pct_gdp,30.73287577,Gross capital formation (% of GDP)
+BEN,Benin,2022,fdi_net_inflows_pct,2.157705376,FDI net inflows (% of GDP)
+BEN,Benin,2022,trade_pct_gdp,44.38159289,Trade (% of GDP)
+BEN,Benin,2023,gdp_pc_current_usd,1394.177847,GDP per capita (current US$)
+BEN,Benin,2023,gdp_pc_const2015_usd,1263.621583,GDP per capita (constant 2015 US$)
+BEN,Benin,2023,gdp_growth_pct,6.352777385,GDP growth (annual %)
+BEN,Benin,2023,gni_pc_atlas_usd,1390,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2023,inflation_cpi_pct,2.738700784,"Inflation, consumer prices (annual %)"
+BEN,Benin,2023,gcf_pct_gdp,34.12177731,Gross capital formation (% of GDP)
+BEN,Benin,2023,fdi_net_inflows_pct,2.25158091,FDI net inflows (% of GDP)
+BEN,Benin,2023,trade_pct_gdp,44.66313082,Trade (% of GDP)
+BEN,Benin,2024,gdp_pc_current_usd,1485.38019,GDP per capita (current US$)
+BEN,Benin,2024,gdp_pc_const2015_usd,1324.783126,GDP per capita (constant 2015 US$)
+BEN,Benin,2024,gdp_growth_pct,7.453115662,GDP growth (annual %)
+BEN,Benin,2024,gni_pc_atlas_usd,1430,"GNI per capita, Atlas method (current US$)"
+BEN,Benin,2024,inflation_cpi_pct,1.160930896,"Inflation, consumer prices (annual %)"
+BEN,Benin,2024,gcf_pct_gdp,34.66555094,Gross capital formation (% of GDP)
+BEN,Benin,2024,fdi_net_inflows_pct,2.527656312,FDI net inflows (% of GDP)
+BEN,Benin,2024,trade_pct_gdp,40.63980224,Trade (% of GDP)
+CPV,Cabo Verde,2000,gdp_pc_current_usd,1189.514793,GDP per capita (current US$)
+CPV,Cabo Verde,2000,gdp_pc_const2015_usd,2037.317209,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2000,gdp_growth_pct,14.28486885,GDP growth (annual %)
+CPV,Cabo Verde,2000,gni_pc_atlas_usd,1330,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2000,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2000,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2000,fdi_net_inflows_pct,6.342824223,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2000,trade_pct_gdp,87.52060836,Trade (% of GDP)
+CPV,Cabo Verde,2001,gdp_pc_current_usd,1223.330553,GDP per capita (current US$)
+CPV,Cabo Verde,2001,gdp_pc_const2015_usd,2051.217339,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2001,gdp_growth_pct,2.231654545,GDP growth (annual %)
+CPV,Cabo Verde,2001,gni_pc_atlas_usd,1270,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2001,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2001,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2001,fdi_net_inflows_pct,1.600131126,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2001,trade_pct_gdp,92.1637225,Trade (% of GDP)
+CPV,Cabo Verde,2002,gdp_pc_current_usd,1328.578743,GDP per capita (current US$)
+CPV,Cabo Verde,2002,gdp_pc_const2015_usd,2127.708723,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2002,gdp_growth_pct,5.25089117,GDP growth (annual %)
+CPV,Cabo Verde,2002,gni_pc_atlas_usd,1230,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2002,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2002,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2002,fdi_net_inflows_pct,2.378544877,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2002,trade_pct_gdp,101.0897023,Trade (% of GDP)
+CPV,Cabo Verde,2003,gdp_pc_current_usd,1717.975654,GDP per capita (current US$)
+CPV,Cabo Verde,2003,gdp_pc_const2015_usd,2186.895004,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2003,gdp_growth_pct,4.176259326,GDP growth (annual %)
+CPV,Cabo Verde,2003,gni_pc_atlas_usd,1440,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2003,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2003,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2003,fdi_net_inflows_pct,4.822134152,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2003,trade_pct_gdp,98.76838081,Trade (% of GDP)
+CPV,Cabo Verde,2004,gdp_pc_current_usd,1929.490815,GDP per capita (current US$)
+CPV,Cabo Verde,2004,gdp_pc_const2015_usd,2379.796362,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2004,gdp_growth_pct,10.19707263,GDP growth (annual %)
+CPV,Cabo Verde,2004,gni_pc_atlas_usd,1810,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2004,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2004,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2004,fdi_net_inflows_pct,7.312720062,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2004,trade_pct_gdp,101.56717,Trade (% of GDP)
+CPV,Cabo Verde,2005,gdp_pc_current_usd,2004.146804,GDP per capita (current US$)
+CPV,Cabo Verde,2005,gdp_pc_const2015_usd,2514.167793,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2005,gdp_growth_pct,6.912457957,GDP growth (annual %)
+CPV,Cabo Verde,2005,gni_pc_atlas_usd,2070,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2005,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2005,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2005,fdi_net_inflows_pct,8.281227111,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2005,trade_pct_gdp,104.3438399,Trade (% of GDP)
+CPV,Cabo Verde,2006,gdp_pc_current_usd,2256.996662,GDP per capita (current US$)
+CPV,Cabo Verde,2006,gdp_pc_const2015_usd,2683.839439,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2006,gdp_growth_pct,7.983750448,GDP growth (annual %)
+CPV,Cabo Verde,2006,gni_pc_atlas_usd,2200,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2006,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2006,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2006,fdi_net_inflows_pct,11.87643173,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2006,trade_pct_gdp,117.8166972,Trade (% of GDP)
+CPV,Cabo Verde,2007,gdp_pc_current_usd,3324.576752,GDP per capita (current US$)
+CPV,Cabo Verde,2007,gdp_pc_const2015_usd,3056.971029,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2007,gdp_growth_pct,15.17068797,GDP growth (annual %)
+CPV,Cabo Verde,2007,gni_pc_atlas_usd,2770,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2007,inflation_cpi_pct,4.410997042,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2007,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2007,fdi_net_inflows_pct,11.62474734,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2007,trade_pct_gdp,65.8209896,Trade (% of GDP)
+CPV,Cabo Verde,2008,gdp_pc_current_usd,3908.648858,GDP per capita (current US$)
+CPV,Cabo Verde,2008,gdp_pc_const2015_usd,3238.441593,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2008,gdp_growth_pct,7.039011296,GDP growth (annual %)
+CPV,Cabo Verde,2008,gni_pc_atlas_usd,3360,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2008,inflation_cpi_pct,6.774435464,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2008,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2008,fdi_net_inflows_pct,10.76247535,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2008,trade_pct_gdp,78.18411583,Trade (% of GDP)
+CPV,Cabo Verde,2009,gdp_pc_current_usd,3659.720464,GDP per capita (current US$)
+CPV,Cabo Verde,2009,gdp_pc_const2015_usd,3159.586987,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2009,gdp_growth_pct,-1.503586724,GDP growth (annual %)
+CPV,Cabo Verde,2009,gni_pc_atlas_usd,3650,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2009,inflation_cpi_pct,0.991103481,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2009,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2009,fdi_net_inflows_pct,6.802418631,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2009,trade_pct_gdp,68.47957225,Trade (% of GDP)
+CPV,Cabo Verde,2010,gdp_pc_current_usd,3579.460061,GDP per capita (current US$)
+CPV,Cabo Verde,2010,gdp_pc_const2015_usd,3194.616677,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2010,gdp_growth_pct,1.83641915,GDP growth (annual %)
+CPV,Cabo Verde,2010,gni_pc_atlas_usd,3600,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2010,inflation_cpi_pct,2.078664709,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2010,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2010,fdi_net_inflows_pct,6.368021378,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2010,trade_pct_gdp,85.54844988,Trade (% of GDP)
+CPV,Cabo Verde,2011,gdp_pc_current_usd,4002.013869,GDP per capita (current US$)
+CPV,Cabo Verde,2011,gdp_pc_const2015_usd,3309.201216,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2011,gdp_growth_pct,3.924718213,GDP growth (annual %)
+CPV,Cabo Verde,2011,gni_pc_atlas_usd,3760,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2011,inflation_cpi_pct,4.473883422,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2011,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2011,fdi_net_inflows_pct,4.99538224,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2011,trade_pct_gdp,90.55645011,Trade (% of GDP)
+CPV,Cabo Verde,2012,gdp_pc_current_usd,3736.81517,GDP per capita (current US$)
+CPV,Cabo Verde,2012,gdp_pc_const2015_usd,3341.742105,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2012,gdp_growth_pct,1.083648484,GDP growth (annual %)
+CPV,Cabo Verde,2012,gni_pc_atlas_usd,3730,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2012,inflation_cpi_pct,2.540396442,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2012,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2012,fdi_net_inflows_pct,6.691298,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2012,trade_pct_gdp,90.64991655,Trade (% of GDP)
+CPV,Cabo Verde,2013,gdp_pc_current_usd,3960.975968,GDP per capita (current US$)
+CPV,Cabo Verde,2013,gdp_pc_const2015_usd,3361.093877,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2013,gdp_growth_pct,0.632136727,GDP growth (annual %)
+CPV,Cabo Verde,2013,gni_pc_atlas_usd,3840,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2013,inflation_cpi_pct,1.506542857,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2013,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2013,fdi_net_inflows_pct,4.401250115,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2013,trade_pct_gdp,86.16986003,Trade (% of GDP)
+CPV,Cabo Verde,2014,gdp_pc_current_usd,3985.607065,GDP per capita (current US$)
+CPV,Cabo Verde,2014,gdp_pc_const2015_usd,3383.842281,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2014,gdp_growth_pct,0.69666684,GDP growth (annual %)
+CPV,Cabo Verde,2014,gni_pc_atlas_usd,3750,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2014,inflation_cpi_pct,-0.238778145,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2014,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2014,fdi_net_inflows_pct,8.844073221,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2014,trade_pct_gdp,91.30385241,Trade (% of GDP)
+CPV,Cabo Verde,2015,gdp_pc_current_usd,3415.062667,GDP per capita (current US$)
+CPV,Cabo Verde,2015,gdp_pc_const2015_usd,3415.062667,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2015,gdp_growth_pct,0.936026508,GDP growth (annual %)
+CPV,Cabo Verde,2015,gni_pc_atlas_usd,3620,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2015,inflation_cpi_pct,0.131187999,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2015,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2015,fdi_net_inflows_pct,5.490245133,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2015,trade_pct_gdp,94.00848702,Trade (% of GDP)
+CPV,Cabo Verde,2016,gdp_pc_current_usd,3608.966052,GDP per capita (current US$)
+CPV,Cabo Verde,2016,gdp_pc_const2015_usd,3560.140073,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2016,gdp_growth_pct,4.280714827,GDP growth (annual %)
+CPV,Cabo Verde,2016,gni_pc_atlas_usd,3580,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2016,inflation_cpi_pct,-1.407816371,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2016,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2016,fdi_net_inflows_pct,6.828451179,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2016,trade_pct_gdp,95.37813986,Trade (% of GDP)
+CPV,Cabo Verde,2017,gdp_pc_current_usd,3893.095714,GDP per capita (current US$)
+CPV,Cabo Verde,2017,gdp_pc_const2015_usd,3719.71306,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2017,gdp_growth_pct,4.55131481,GDP growth (annual %)
+CPV,Cabo Verde,2017,gni_pc_atlas_usd,3620,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2017,inflation_cpi_pct,0.784415251,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2017,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2017,fdi_net_inflows_pct,5.594696735,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2017,trade_pct_gdp,100.0521339,Trade (% of GDP)
+CPV,Cabo Verde,2018,gdp_pc_current_usd,4294.9651,GDP per capita (current US$)
+CPV,Cabo Verde,2018,gdp_pc_const2015_usd,3853.6794,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2018,gdp_growth_pct,3.706964583,GDP growth (annual %)
+CPV,Cabo Verde,2018,gni_pc_atlas_usd,4040,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2018,inflation_cpi_pct,1.256995667,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2018,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2018,fdi_net_inflows_pct,4.69595736,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2018,trade_pct_gdp,105.8675241,Trade (% of GDP)
+CPV,Cabo Verde,2019,gdp_pc_current_usd,4380.781173,GDP per capita (current US$)
+CPV,Cabo Verde,2019,gdp_pc_const2015_usd,4115.902835,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2019,gdp_growth_pct,6.947826341,GDP growth (annual %)
+CPV,Cabo Verde,2019,gni_pc_atlas_usd,4420,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2019,inflation_cpi_pct,1.106666743,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2019,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2019,fdi_net_inflows_pct,5.457887557,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2019,trade_pct_gdp,103.6026565,Trade (% of GDP)
+CPV,Cabo Verde,2020,gdp_pc_current_usd,3539.226612,GDP per capita (current US$)
+CPV,Cabo Verde,2020,gdp_pc_const2015_usd,3255.93629,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2020,gdp_growth_pct,-20.8052759,GDP growth (annual %)
+CPV,Cabo Verde,2020,gni_pc_atlas_usd,3510,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2020,inflation_cpi_pct,0.605795808,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2020,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2020,fdi_net_inflows_pct,3.712184915,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2020,trade_pct_gdp,78.39345459,Trade (% of GDP)
+CPV,Cabo Verde,2021,gdp_pc_current_usd,3971.444092,GDP per capita (current US$)
+CPV,Cabo Verde,2021,gdp_pc_const2015_usd,3471.655342,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2021,gdp_growth_pct,7.033530107,GDP growth (annual %)
+CPV,Cabo Verde,2021,gni_pc_atlas_usd,3870,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2021,inflation_cpi_pct,1.862152975,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2021,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2021,fdi_net_inflows_pct,4.457304982,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2021,trade_pct_gdp,77.45505863,Trade (% of GDP)
+CPV,Cabo Verde,2022,gdp_pc_current_usd,4323.31362,GDP per capita (current US$)
+CPV,Cabo Verde,2022,gdp_pc_const2015_usd,3997.767633,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2022,gdp_growth_pct,15.84367568,GDP growth (annual %)
+CPV,Cabo Verde,2022,gni_pc_atlas_usd,4550,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2022,inflation_cpi_pct,7.930929254,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2022,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2022,fdi_net_inflows_pct,5.430144521,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2022,trade_pct_gdp,96.99413685,Trade (% of GDP)
+CPV,Cabo Verde,2023,gdp_pc_current_usd,4861.291841,GDP per capita (current US$)
+CPV,Cabo Verde,2023,gdp_pc_const2015_usd,4192.401264,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2023,gdp_growth_pct,5.391144274,GDP growth (annual %)
+CPV,Cabo Verde,2023,gni_pc_atlas_usd,4780,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2023,inflation_cpi_pct,3.724375177,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2023,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2023,fdi_net_inflows_pct,6.251405189,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2023,trade_pct_gdp,94.5799055,Trade (% of GDP)
+CPV,Cabo Verde,2024,gdp_pc_current_usd,5272.85253,GDP per capita (current US$)
+CPV,Cabo Verde,2024,gdp_pc_const2015_usd,4475.452997,GDP per capita (constant 2015 US$)
+CPV,Cabo Verde,2024,gdp_growth_pct,7.271881472,GDP growth (annual %)
+CPV,Cabo Verde,2024,gni_pc_atlas_usd,5000,"GNI per capita, Atlas method (current US$)"
+CPV,Cabo Verde,2024,inflation_cpi_pct,1.048170011,"Inflation, consumer prices (annual %)"
+CPV,Cabo Verde,2024,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+CPV,Cabo Verde,2024,fdi_net_inflows_pct,3.972134008,FDI net inflows (% of GDP)
+CPV,Cabo Verde,2024,trade_pct_gdp,95.09479512,Trade (% of GDP)
+CIV,Cote d'Ivoire,2000,gdp_pc_current_usd,936.6365413,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2000,gdp_pc_const2015_usd,1717.953857,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2000,gdp_growth_pct,-0.265789462,GDP growth (annual %)
+CIV,Cote d'Ivoire,2000,gni_pc_atlas_usd,610,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2000,inflation_cpi_pct,2.530775167,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2000,gcf_pct_gdp,16.36206805,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2000,fdi_net_inflows_pct,1.415781934,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2000,trade_pct_gdp,54.96399163,Trade (% of GDP)
+CIV,Cote d'Ivoire,2001,gdp_pc_current_usd,924.727295,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2001,gdp_pc_const2015_usd,1636.573187,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2001,gdp_growth_pct,-2.154012491,GDP growth (annual %)
+CIV,Cote d'Ivoire,2001,gni_pc_atlas_usd,550,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2001,inflation_cpi_pct,4.36152914,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2001,gcf_pct_gdp,15.34076825,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2001,fdi_net_inflows_pct,1.622077268,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2001,trade_pct_gdp,53.11410472,Trade (% of GDP)
+CIV,Cote d'Ivoire,2002,gdp_pc_current_usd,967.8158644,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2002,gdp_pc_const2015_usd,1551.279259,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2002,gdp_growth_pct,-2.730526474,GDP growth (annual %)
+CIV,Cote d'Ivoire,2002,gni_pc_atlas_usd,530,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2002,inflation_cpi_pct,3.077264852,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2002,gcf_pct_gdp,15.45886395,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2002,fdi_net_inflows_pct,1.177444924,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2002,trade_pct_gdp,55.90194823,Trade (% of GDP)
+CIV,Cote d'Ivoire,2003,gdp_pc_current_usd,1111.171351,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2003,gdp_pc_const2015_usd,1441.588018,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2003,gdp_growth_pct,-4.725866586,GDP growth (annual %)
+CIV,Cote d'Ivoire,2003,gni_pc_atlas_usd,580,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2003,inflation_cpi_pct,3.29680747,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2003,gcf_pct_gdp,12.8438508,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2003,fdi_net_inflows_pct,0.778244315,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2003,trade_pct_gdp,53.26006068,Trade (% of GDP)
+CIV,Cote d'Ivoire,2004,gdp_pc_current_usd,1199.825245,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2004,gdp_pc_const2015_usd,1451.865471,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2004,gdp_growth_pct,3.185038226,GDP growth (annual %)
+CIV,Cote d'Ivoire,2004,gni_pc_atlas_usd,710,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2004,inflation_cpi_pct,1.457988356,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2004,gcf_pct_gdp,13.49333136,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2004,fdi_net_inflows_pct,1.203627822,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2004,trade_pct_gdp,58.1182963,Trade (% of GDP)
+CIV,Cote d'Ivoire,2005,gdp_pc_current_usd,1197.74617,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2005,gdp_pc_const2015_usd,1431.733202,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2005,gdp_growth_pct,0.996065565,GDP growth (annual %)
+CIV,Cote d'Ivoire,2005,gni_pc_atlas_usd,850,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2005,inflation_cpi_pct,3.885830399,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2005,gcf_pct_gdp,13.73747376,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2005,fdi_net_inflows_pct,1.452181084,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2005,trade_pct_gdp,62.82093604,Trade (% of GDP)
+CIV,Cote d'Ivoire,2006,gdp_pc_current_usd,1230.430568,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2006,gdp_pc_const2015_usd,1437.774538,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2006,gdp_growth_pct,2.815578593,GDP growth (annual %)
+CIV,Cote d'Ivoire,2006,gni_pc_atlas_usd,850,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2006,inflation_cpi_pct,2.467191486,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2006,gcf_pct_gdp,14.2436392,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2006,fdi_net_inflows_pct,1.388231801,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2006,trade_pct_gdp,63.69037706,Trade (% of GDP)
+CIV,Cote d'Ivoire,2007,gdp_pc_current_usd,1367.538177,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2007,gdp_pc_const2015_usd,1420.173896,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2007,gdp_growth_pct,1.101429768,GDP growth (annual %)
+CIV,Cote d'Ivoire,2007,gni_pc_atlas_usd,880,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2007,inflation_cpi_pct,1.892006293,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2007,gcf_pct_gdp,16.69714714,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2007,fdi_net_inflows_pct,1.543116648,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2007,trade_pct_gdp,61.43094235,Trade (% of GDP)
+CIV,Cote d'Ivoire,2008,gdp_pc_current_usd,1583.970667,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2008,gdp_pc_const2015_usd,1454.627318,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2008,gdp_growth_pct,4.782665979,GDP growth (annual %)
+CIV,Cote d'Ivoire,2008,gni_pc_atlas_usd,1000,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2008,inflation_cpi_pct,6.308527692,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2008,gcf_pct_gdp,16.11778346,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2008,fdi_net_inflows_pct,1.374418808,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2008,trade_pct_gdp,61.9406213,Trade (% of GDP)
+CIV,Cote d'Ivoire,2009,gdp_pc_current_usd,1540.453936,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2009,gdp_pc_const2015_usd,1473.91837,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2009,gdp_growth_pct,3.603321567,GDP growth (annual %)
+CIV,Cote d'Ivoire,2009,gni_pc_atlas_usd,1080,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2009,inflation_cpi_pct,1.019504577,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2009,gcf_pct_gdp,16.10816078,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2009,fdi_net_inflows_pct,1.173390786,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2009,trade_pct_gdp,66.67290375,Trade (% of GDP)
+CIV,Cote d'Ivoire,2010,gdp_pc_current_usd,1553.54887,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2010,gdp_pc_const2015_usd,1540.529273,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2010,gdp_growth_pct,6.848049399,GDP growth (annual %)
+CIV,Cote d'Ivoire,2010,gni_pc_atlas_usd,1120,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2010,inflation_cpi_pct,1.226456121,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2010,gcf_pct_gdp,20.70317397,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2010,fdi_net_inflows_pct,1.026062392,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2010,trade_pct_gdp,67.47294008,Trade (% of GDP)
+CIV,Cote d'Ivoire,2011,gdp_pc_current_usd,1596.628266,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2011,gdp_pc_const2015_usd,1426.464639,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2011,gdp_growth_pct,-5.37044724,GDP growth (annual %)
+CIV,Cote d'Ivoire,2011,gni_pc_atlas_usd,1020,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2011,inflation_cpi_pct,4.912433951,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2011,gcf_pct_gdp,17.84705923,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2011,fdi_net_inflows_pct,0.822954277,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2011,trade_pct_gdp,64.71590306,Trade (% of GDP)
+CIV,Cote d'Ivoire,2012,gdp_pc_current_usd,1546.946018,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2012,gdp_pc_const2015_usd,1503.43433,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2012,gdp_growth_pct,7.620411765,GDP growth (annual %)
+CIV,Cote d'Ivoire,2012,gni_pc_atlas_usd,1140,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2012,inflation_cpi_pct,1.304511199,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2012,gcf_pct_gdp,17.11227154,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2012,fdi_net_inflows_pct,0.909737109,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2012,trade_pct_gdp,70.30108932,Trade (% of GDP)
+CIV,Cote d'Ivoire,2013,gdp_pc_current_usd,1786.15862,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2013,gdp_pc_const2015_usd,1632.327128,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2013,gdp_growth_pct,10.76021313,GDP growth (annual %)
+CIV,Cote d'Ivoire,2013,gni_pc_atlas_usd,1240,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2013,inflation_cpi_pct,2.581170373,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2013,gcf_pct_gdp,20.73120222,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2013,fdi_net_inflows_pct,0.953203642,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2013,trade_pct_gdp,58.35267925,Trade (% of GDP)
+CIV,Cote d'Ivoire,2014,gdp_pc_current_usd,1991.365394,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2014,gdp_pc_const2015_usd,1742.53693,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2014,gdp_growth_pct,9.371999942,GDP growth (annual %)
+CIV,Cote d'Ivoire,2014,gni_pc_atlas_usd,1860,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2014,inflation_cpi_pct,0.448682077,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2014,gcf_pct_gdp,22.47607017,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2014,fdi_net_inflows_pct,0.899528921,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2014,trade_pct_gdp,53.68041756,Trade (% of GDP)
+CIV,Cote d'Ivoire,2015,gdp_pc_current_usd,1814.718551,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2015,gdp_pc_const2015_usd,1814.718551,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2015,gdp_growth_pct,7.194949427,GDP growth (annual %)
+CIV,Cote d'Ivoire,2015,gni_pc_atlas_usd,1880,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2015,inflation_cpi_pct,1.251499548,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2015,gcf_pct_gdp,23.5616685,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2015,fdi_net_inflows_pct,1.079141548,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2015,trade_pct_gdp,52.71286474,Trade (% of GDP)
+CIV,Cote d'Ivoire,2016,gdp_pc_current_usd,1862.595971,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2016,gdp_pc_const2015_usd,1889.277779,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2016,gdp_growth_pct,7.17275964,GDP growth (annual %)
+CIV,Cote d'Ivoire,2016,gni_pc_atlas_usd,1880,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2016,inflation_cpi_pct,0.723178458,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2016,gcf_pct_gdp,23.2965013,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2016,fdi_net_inflows_pct,1.193758009,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2016,trade_pct_gdp,47.56557836,Trade (% of GDP)
+CIV,Cote d'Ivoire,2017,gdp_pc_current_usd,1964.299303,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2017,gdp_pc_const2015_usd,1972.814318,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2017,gdp_growth_pct,7.410762426,GDP growth (annual %)
+CIV,Cote d'Ivoire,2017,gni_pc_atlas_usd,1870,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2017,inflation_cpi_pct,0.685881065,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2017,gcf_pct_gdp,21.91091875,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2017,fdi_net_inflows_pct,1.856734864,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2017,trade_pct_gdp,48.66250747,Trade (% of GDP)
+CIV,Cote d'Ivoire,2018,gdp_pc_current_usd,2130.866194,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2018,gdp_pc_const2015_usd,2013.323076,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2018,gdp_growth_pct,4.843146059,GDP growth (annual %)
+CIV,Cote d'Ivoire,2018,gni_pc_atlas_usd,2010,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2018,inflation_cpi_pct,0.359409031,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2018,gcf_pct_gdp,22.46655036,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2018,fdi_net_inflows_pct,1.059986996,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2018,trade_pct_gdp,46.03750871,Trade (% of GDP)
+CIV,Cote d'Ivoire,2019,gdp_pc_current_usd,2141.768362,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2019,gdp_pc_const2015_usd,2093.099943,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2019,gdp_growth_pct,6.721371676,GDP growth (annual %)
+CIV,Cote d'Ivoire,2019,gni_pc_atlas_usd,2120,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2019,inflation_cpi_pct,-1.10686344,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2019,gcf_pct_gdp,22.17664811,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2019,fdi_net_inflows_pct,1.405830482,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2019,trade_pct_gdp,44.66041058,Trade (% of GDP)
+CIV,Cote d'Ivoire,2020,gdp_pc_current_usd,2179.729348,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2020,gdp_pc_const2015_usd,2055.08484,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2020,gdp_growth_pct,0.699728593,GDP growth (annual %)
+CIV,Cote d'Ivoire,2020,gni_pc_atlas_usd,2120,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2020,inflation_cpi_pct,2.425006568,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2020,gcf_pct_gdp,20.34476314,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2020,fdi_net_inflows_pct,1.131112457,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2020,trade_pct_gdp,41.94263182,Trade (% of GDP)
+CIV,Cote d'Ivoire,2021,gdp_pc_current_usd,2455.981276,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2021,gdp_pc_const2015_usd,2146.476353,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2021,gdp_growth_pct,7.063329102,GDP growth (annual %)
+CIV,Cote d'Ivoire,2021,gni_pc_atlas_usd,2300,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2021,inflation_cpi_pct,4.091951897,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2021,gcf_pct_gdp,21.0571796,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2021,fdi_net_inflows_pct,1.912826559,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2021,trade_pct_gdp,45.11403278,Trade (% of GDP)
+CIV,Cote d'Ivoire,2022,gdp_pc_current_usd,2333.371283,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2022,gdp_pc_const2015_usd,2227.098452,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2022,gdp_growth_pct,6.399883627,GDP growth (annual %)
+CIV,Cote d'Ivoire,2022,gni_pc_atlas_usd,2440,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2022,inflation_cpi_pct,5.276167243,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2022,gcf_pct_gdp,22.28952187,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2022,fdi_net_inflows_pct,2.254726532,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2022,trade_pct_gdp,52.86639104,Trade (% of GDP)
+CIV,Cote d'Ivoire,2023,gdp_pc_current_usd,2554.673049,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2023,gdp_pc_const2015_usd,2312.13337,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2023,gdp_growth_pct,6.450457969,GDP growth (annual %)
+CIV,Cote d'Ivoire,2023,gni_pc_atlas_usd,2500,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2023,inflation_cpi_pct,4.38711707,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2023,gcf_pct_gdp,23.14151111,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2023,fdi_net_inflows_pct,3.121323518,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2023,trade_pct_gdp,52.00345487,Trade (% of GDP)
+CIV,Cote d'Ivoire,2024,gdp_pc_current_usd,2709.895116,GDP per capita (current US$)
+CIV,Cote d'Ivoire,2024,gdp_pc_const2015_usd,2390.747106,GDP per capita (constant 2015 US$)
+CIV,Cote d'Ivoire,2024,gdp_growth_pct,5.95,GDP growth (annual %)
+CIV,Cote d'Ivoire,2024,gni_pc_atlas_usd,2510,"GNI per capita, Atlas method (current US$)"
+CIV,Cote d'Ivoire,2024,inflation_cpi_pct,3.466373147,"Inflation, consumer prices (annual %)"
+CIV,Cote d'Ivoire,2024,gcf_pct_gdp,24.48246599,Gross capital formation (% of GDP)
+CIV,Cote d'Ivoire,2024,fdi_net_inflows_pct,4.393560833,FDI net inflows (% of GDP)
+CIV,Cote d'Ivoire,2024,trade_pct_gdp,54.66692798,Trade (% of GDP)
+GMB,"Gambia, The",2000,gdp_pc_current_usd,538.0540723,GDP per capita (current US$)
+GMB,"Gambia, The",2000,gdp_pc_const2015_usd,659.9112376,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2000,gdp_growth_pct,5.500000216,GDP growth (annual %)
+GMB,"Gambia, The",2000,gni_pc_atlas_usd,560,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2000,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2000,gcf_pct_gdp,4.562497397,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2000,fdi_net_inflows_pct,5.55872128,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2000,trade_pct_gdp,56.35981989,Trade (% of GDP)
+GMB,"Gambia, The",2001,gdp_pc_current_usd,459.8030684,GDP per capita (current US$)
+GMB,"Gambia, The",2001,gdp_pc_const2015_usd,679.5397559,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2001,gdp_growth_pct,5.800000243,GDP growth (annual %)
+GMB,"Gambia, The",2001,gni_pc_atlas_usd,510,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2001,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2001,gcf_pct_gdp,11.17274014,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2001,fdi_net_inflows_pct,5.161398104,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2001,trade_pct_gdp,46.92926319,Trade (% of GDP)
+GMB,"Gambia, The",2002,gdp_pc_current_usd,376.531027,GDP per capita (current US$)
+GMB,"Gambia, The",2002,gdp_pc_const2015_usd,640.0389321,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2002,gdp_growth_pct,-3.25000015,GDP growth (annual %)
+GMB,"Gambia, The",2002,gni_pc_atlas_usd,410,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2002,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2002,gcf_pct_gdp,7.278327629,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2002,fdi_net_inflows_pct,7.406500314,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2002,trade_pct_gdp,59.64295092,Trade (% of GDP)
+GMB,"Gambia, The",2003,gdp_pc_current_usd,308.7191234,GDP per capita (current US$)
+GMB,"Gambia, The",2003,gdp_pc_const2015_usd,665.8342223,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2003,gdp_growth_pct,6.869999622,GDP growth (annual %)
+GMB,"Gambia, The",2003,gni_pc_atlas_usd,360,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2003,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2003,gcf_pct_gdp,10.03888601,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2003,fdi_net_inflows_pct,3.751800607,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2003,trade_pct_gdp,68.85879303,Trade (% of GDP)
+GMB,"Gambia, The",2004,gdp_pc_current_usd,593.2853463,GDP per capita (current US$)
+GMB,"Gambia, The",2004,gdp_pc_const2015_usd,693.5633145,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2004,gdp_growth_pct,7.050000001,GDP growth (annual %)
+GMB,"Gambia, The",2004,gni_pc_atlas_usd,430,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2004,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2004,gcf_pct_gdp,14.31837652,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2004,fdi_net_inflows_pct,5.772562827,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2004,trade_pct_gdp,49.93429956,Trade (% of GDP)
+GMB,"Gambia, The",2005,gdp_pc_current_usd,616.4836579,GDP per capita (current US$)
+GMB,"Gambia, The",2005,gdp_pc_const2015_usd,658.6762854,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2005,gdp_growth_pct,-2.351729362,GDP growth (annual %)
+GMB,"Gambia, The",2005,gni_pc_atlas_usd,480,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2005,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2005,gcf_pct_gdp,13.83185067,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2005,fdi_net_inflows_pct,5.220416881,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2005,trade_pct_gdp,50.0187234,Trade (% of GDP)
+GMB,"Gambia, The",2006,gdp_pc_current_usd,614.5443079,GDP per capita (current US$)
+GMB,"Gambia, The",2006,gdp_pc_const2015_usd,636.5960269,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2006,gdp_growth_pct,-0.555580977,GDP growth (annual %)
+GMB,"Gambia, The",2006,gni_pc_atlas_usd,600,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2006,inflation_cpi_pct,2.056503424,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2006,gcf_pct_gdp,15.69068531,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2006,fdi_net_inflows_pct,7.798797903,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2006,trade_pct_gdp,50.37446858,Trade (% of GDP)
+GMB,"Gambia, The",2007,gdp_pc_current_usd,724.7264072,GDP per capita (current US$)
+GMB,"Gambia, The",2007,gdp_pc_const2015_usd,637.209306,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2007,gdp_growth_pct,3.043249508,GDP growth (annual %)
+GMB,"Gambia, The",2007,gni_pc_atlas_usd,650,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2007,inflation_cpi_pct,5.369134738,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2007,gcf_pct_gdp,12.56652088,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2007,fdi_net_inflows_pct,6.102573651,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2007,trade_pct_gdp,44.29384447,Trade (% of GDP)
+GMB,"Gambia, The",2008,gdp_pc_current_usd,859.1276714,GDP per capita (current US$)
+GMB,"Gambia, The",2008,gdp_pc_const2015_usd,657.6756792,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2008,gdp_growth_pct,6.255905534,GDP growth (annual %)
+GMB,"Gambia, The",2008,gni_pc_atlas_usd,750,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2008,inflation_cpi_pct,4.443654909,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2008,gcf_pct_gdp,10.52243473,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2008,fdi_net_inflows_pct,4.532839042,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2008,trade_pct_gdp,39.08909946,Trade (% of GDP)
+GMB,"Gambia, The",2009,gdp_pc_current_usd,774.8880309,GDP per capita (current US$)
+GMB,"Gambia, The",2009,gdp_pc_const2015_usd,681.4334691,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2009,gdp_growth_pct,6.665724308,GDP growth (annual %)
+GMB,"Gambia, The",2009,gni_pc_atlas_usd,820,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2009,inflation_cpi_pct,4.561506877,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2009,gcf_pct_gdp,12.8914138,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2009,fdi_net_inflows_pct,2.720239113,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2009,trade_pct_gdp,41.77739443,Trade (% of GDP)
+GMB,"Gambia, The",2010,gdp_pc_current_usd,801.0333727,GDP per capita (current US$)
+GMB,"Gambia, The",2010,gdp_pc_const2015_usd,701.0145246,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2010,gdp_growth_pct,5.90833581,GDP growth (annual %)
+GMB,"Gambia, The",2010,gni_pc_atlas_usd,830,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2010,inflation_cpi_pct,5.049680759,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2010,gcf_pct_gdp,13.87671053,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2010,fdi_net_inflows_pct,2.406596896,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2010,trade_pct_gdp,41.01251503,Trade (% of GDP)
+GMB,"Gambia, The",2011,gdp_pc_current_usd,710.6084115,GDP per capita (current US$)
+GMB,"Gambia, The",2011,gdp_pc_const2015_usd,625.4643603,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2011,gdp_growth_pct,-8.130444223,GDP growth (annual %)
+GMB,"Gambia, The",2011,gni_pc_atlas_usd,710,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2011,inflation_cpi_pct,4.795882662,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2011,gcf_pct_gdp,12.89616829,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2011,fdi_net_inflows_pct,2.55921827,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2011,trade_pct_gdp,42.63970205,Trade (% of GDP)
+GMB,"Gambia, The",2012,gdp_pc_current_usd,692.5793616,GDP per capita (current US$)
+GMB,"Gambia, The",2012,gdp_pc_const2015_usd,639.1398819,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2012,gdp_growth_pct,5.241569246,GDP growth (annual %)
+GMB,"Gambia, The",2012,gni_pc_atlas_usd,710,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2012,inflation_cpi_pct,4.254321998,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2012,gcf_pct_gdp,20.87716865,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2012,fdi_net_inflows_pct,2.910481969,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2012,trade_pct_gdp,47.70067311,Trade (% of GDP)
+GMB,"Gambia, The",2013,gdp_pc_current_usd,653.8627133,GDP per capita (current US$)
+GMB,"Gambia, The",2013,gdp_pc_const2015_usd,638.5223685,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2013,gdp_growth_pct,2.87276879,GDP growth (annual %)
+GMB,"Gambia, The",2013,gni_pc_atlas_usd,680,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2013,inflation_cpi_pct,5.699129896,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2013,gcf_pct_gdp,14.71153313,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2013,fdi_net_inflows_pct,4.968003252,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2013,trade_pct_gdp,45.46191936,Trade (% of GDP)
+GMB,"Gambia, The",2014,gdp_pc_current_usd,568.0045356,GDP per capita (current US$)
+GMB,"Gambia, The",2014,gdp_pc_const2015_usd,611.879473,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2014,gdp_growth_pct,-1.407382495,GDP growth (annual %)
+GMB,"Gambia, The",2014,gni_pc_atlas_usd,600,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2014,inflation_cpi_pct,5.947999357,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2014,gcf_pct_gdp,16.6526122,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2014,fdi_net_inflows_pct,1.871883577,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2014,trade_pct_gdp,58.25793078,Trade (% of GDP)
+GMB,"Gambia, The",2015,gdp_pc_current_usd,619.5363643,GDP per capita (current US$)
+GMB,"Gambia, The",2015,gdp_pc_const2015_usd,619.5363643,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2015,gdp_growth_pct,4.058073804,GDP growth (annual %)
+GMB,"Gambia, The",2015,gni_pc_atlas_usd,590,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2015,inflation_cpi_pct,6.808454946,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2015,gcf_pct_gdp,20.34981404,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2015,fdi_net_inflows_pct,5.222556473,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2015,trade_pct_gdp,44.52237308,Trade (% of GDP)
+GMB,"Gambia, The",2016,gdp_pc_current_usd,650.0565013,GDP per capita (current US$)
+GMB,"Gambia, The",2016,gdp_pc_const2015_usd,615.1933655,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2016,gdp_growth_pct,1.943359655,GDP growth (annual %)
+GMB,"Gambia, The",2016,gni_pc_atlas_usd,590,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2016,inflation_cpi_pct,7.228792721,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2016,gcf_pct_gdp,24.91993419,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2016,fdi_net_inflows_pct,4.703702368,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2016,trade_pct_gdp,38.11408796,Trade (% of GDP)
+GMB,"Gambia, The",2017,gdp_pc_current_usd,642.5226413,GDP per capita (current US$)
+GMB,"Gambia, The",2017,gdp_pc_const2015_usd,628.7772993,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2017,gdp_growth_pct,4.822611249,GDP growth (annual %)
+GMB,"Gambia, The",2017,gni_pc_atlas_usd,620,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2017,inflation_cpi_pct,8.034189745,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2017,gcf_pct_gdp,22.95972668,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2017,fdi_net_inflows_pct,4.275241643,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2017,trade_pct_gdp,55.73357961,Trade (% of GDP)
+GMB,"Gambia, The",2018,gdp_pc_current_usd,696.219807,GDP per capita (current US$)
+GMB,"Gambia, The",2018,gdp_pc_const2015_usd,658.1278333,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2018,gdp_growth_pct,7.234890333,GDP growth (annual %)
+GMB,"Gambia, The",2018,gni_pc_atlas_usd,680,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2018,inflation_cpi_pct,6.520968239,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2018,gcf_pct_gdp,20.87842426,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2018,fdi_net_inflows_pct,4.896535018,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2018,trade_pct_gdp,64.812464,Trade (% of GDP)
+GMB,"Gambia, The",2019,gdp_pc_current_usd,738.186752,GDP per capita (current US$)
+GMB,"Gambia, The",2019,gdp_pc_const2015_usd,682.7976429,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2019,gdp_growth_pct,6.22205316,GDP growth (annual %)
+GMB,"Gambia, The",2019,gni_pc_atlas_usd,720,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2019,inflation_cpi_pct,7.115676256,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2019,gcf_pct_gdp,24.65384316,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2019,fdi_net_inflows_pct,3.919437912,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2019,trade_pct_gdp,55.99791162,Trade (% of GDP)
+GMB,"Gambia, The",2020,gdp_pc_current_usd,720.3351434,GDP per capita (current US$)
+GMB,"Gambia, The",2020,gdp_pc_const2015_usd,670.7586429,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2020,gdp_growth_pct,0.591487288,GDP growth (annual %)
+GMB,"Gambia, The",2020,gni_pc_atlas_usd,720,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2020,inflation_cpi_pct,5.931276366,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2020,gcf_pct_gdp,32.34205469,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2020,fdi_net_inflows_pct,10.46127557,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2020,trade_pct_gdp,47.39552017,Trade (% of GDP)
+GMB,"Gambia, The",2021,gdp_pc_current_usd,781.8909252,GDP per capita (current US$)
+GMB,"Gambia, The",2021,gdp_pc_const2015_usd,689.4932396,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2021,gdp_growth_pct,5.255968788,GDP growth (annual %)
+GMB,"Gambia, The",2021,gni_pc_atlas_usd,760,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2021,inflation_cpi_pct,7.370347589,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2021,gcf_pct_gdp,30.37079025,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2021,fdi_net_inflows_pct,12.50262013,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2021,trade_pct_gdp,42.0979828,Trade (% of GDP)
+GMB,"Gambia, The",2022,gdp_pc_current_usd,836.2448756,GDP per capita (current US$)
+GMB,"Gambia, The",2022,gdp_pc_const2015_usd,710.6869794,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2022,gdp_growth_pct,5.492998255,GDP growth (annual %)
+GMB,"Gambia, The",2022,gni_pc_atlas_usd,830,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2022,inflation_cpi_pct,11.51311984,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2022,gcf_pct_gdp,28.62364922,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2022,fdi_net_inflows_pct,10.4995861,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2022,trade_pct_gdp,44.72192155,Trade (% of GDP)
+GMB,"Gambia, The",2023,gdp_pc_current_usd,888.1574074,GDP per capita (current US$)
+GMB,"Gambia, The",2023,gdp_pc_const2015_usd,727.8387234,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2023,gdp_growth_pct,4.797508945,GDP growth (annual %)
+GMB,"Gambia, The",2023,gni_pc_atlas_usd,870,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2023,inflation_cpi_pct,16.97421296,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2023,gcf_pct_gdp,27.28734512,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2023,fdi_net_inflows_pct,8.578128142,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2023,trade_pct_gdp,42.43600251,Trade (% of GDP)
+GMB,"Gambia, The",2024,gdp_pc_current_usd,908.5256742,GDP per capita (current US$)
+GMB,"Gambia, The",2024,gdp_pc_const2015_usd,752.3360182,GDP per capita (constant 2015 US$)
+GMB,"Gambia, The",2024,gdp_growth_pct,5.746717655,GDP growth (annual %)
+GMB,"Gambia, The",2024,gni_pc_atlas_usd,890,"GNI per capita, Atlas method (current US$)"
+GMB,"Gambia, The",2024,inflation_cpi_pct,11.56105329,"Inflation, consumer prices (annual %)"
+GMB,"Gambia, The",2024,gcf_pct_gdp,38.98518684,Gross capital formation (% of GDP)
+GMB,"Gambia, The",2024,fdi_net_inflows_pct,9.266409352,FDI net inflows (% of GDP)
+GMB,"Gambia, The",2024,trade_pct_gdp,43.73883735,Trade (% of GDP)
+GHA,Ghana,2000,gdp_pc_current_usd,253.7469362,GDP per capita (current US$)
+GHA,Ghana,2000,gdp_pc_const2015_usd,1022.275207,GDP per capita (constant 2015 US$)
+GHA,Ghana,2000,gdp_growth_pct,3.700000082,GDP growth (annual %)
+GHA,Ghana,2000,gni_pc_atlas_usd,330,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2000,inflation_cpi_pct,40.24093312,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2000,gcf_pct_gdp,23.09813093,Gross capital formation (% of GDP)
+GHA,Ghana,2000,fdi_net_inflows_pct,3.329419468,FDI net inflows (% of GDP)
+GHA,Ghana,2000,trade_pct_gdp,116.0484302,Trade (% of GDP)
+GHA,Ghana,2001,gdp_pc_current_usd,263.5421565,GDP per capita (current US$)
+GHA,Ghana,2001,gdp_pc_const2015_usd,1035.226661,GDP per capita (constant 2015 US$)
+GHA,Ghana,2001,gdp_growth_pct,4.000000128,GDP growth (annual %)
+GHA,Ghana,2001,gni_pc_atlas_usd,290,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2001,inflation_cpi_pct,41.50949629,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2001,gcf_pct_gdp,27.1229213,Gross capital formation (% of GDP)
+GHA,Ghana,2001,fdi_net_inflows_pct,1.680567013,FDI net inflows (% of GDP)
+GHA,Ghana,2001,trade_pct_gdp,110.0458542,Trade (% of GDP)
+GHA,Ghana,2002,gdp_pc_current_usd,297.4616447,GDP per capita (current US$)
+GHA,Ghana,2002,gdp_pc_const2015_usd,1052.465916,GDP per capita (constant 2015 US$)
+GHA,Ghana,2002,gdp_growth_pct,4.499999559,GDP growth (annual %)
+GHA,Ghana,2002,gni_pc_atlas_usd,270,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2002,inflation_cpi_pct,9.360932396,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2002,gcf_pct_gdp,18.77494577,Gross capital formation (% of GDP)
+GHA,Ghana,2002,fdi_net_inflows_pct,0.955694278,FDI net inflows (% of GDP)
+GHA,Ghana,2002,trade_pct_gdp,97.48924317,Trade (% of GDP)
+GHA,Ghana,2003,gdp_pc_current_usd,358.3992714,GDP per capita (current US$)
+GHA,Ghana,2003,gdp_pc_const2015_usd,1077.699909,GDP per capita (constant 2015 US$)
+GHA,Ghana,2003,gdp_growth_pct,5.200000133,GDP growth (annual %)
+GHA,Ghana,2003,gni_pc_atlas_usd,310,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2003,inflation_cpi_pct,29.77297972,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2003,gcf_pct_gdp,22.93692798,Gross capital formation (% of GDP)
+GHA,Ghana,2003,fdi_net_inflows_pct,1.791640939,FDI net inflows (% of GDP)
+GHA,Ghana,2003,trade_pct_gdp,97.28714571,Trade (% of GDP)
+GHA,Ghana,2004,gdp_pc_current_usd,406.1321053,GDP per capita (current US$)
+GHA,Ghana,2004,gdp_pc_const2015_usd,1108.304754,GDP per capita (constant 2015 US$)
+GHA,Ghana,2004,gdp_growth_pct,5.599999991,GDP growth (annual %)
+GHA,Ghana,2004,gni_pc_atlas_usd,370,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2004,inflation_cpi_pct,18.04273882,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2004,gcf_pct_gdp,28.37750668,Gross capital formation (% of GDP)
+GHA,Ghana,2004,fdi_net_inflows_pct,1.56810547,FDI net inflows (% of GDP)
+GHA,Ghana,2004,trade_pct_gdp,99.67033435,Trade (% of GDP)
+GHA,Ghana,2005,gdp_pc_current_usd,478.6119092,GDP per capita (current US$)
+GHA,Ghana,2005,gdp_pc_const2015_usd,1143.311789,GDP per capita (constant 2015 US$)
+GHA,Ghana,2005,gdp_growth_pct,5.900003819,GDP growth (annual %)
+GHA,Ghana,2005,gni_pc_atlas_usd,450,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2005,inflation_cpi_pct,15.43899202,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2005,gcf_pct_gdp,29.00214064,Gross capital formation (% of GDP)
+GHA,Ghana,2005,fdi_net_inflows_pct,1.349239866,FDI net inflows (% of GDP)
+GHA,Ghana,2005,trade_pct_gdp,98.17151411,Trade (% of GDP)
+GHA,Ghana,2006,gdp_pc_current_usd,906.4410276,GDP per capita (current US$)
+GHA,Ghana,2006,gdp_pc_const2015_usd,1185.265707,GDP per capita (constant 2015 US$)
+GHA,Ghana,2006,gdp_growth_pct,6.399912606,GDP growth (annual %)
+GHA,Ghana,2006,gni_pc_atlas_usd,570,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2006,inflation_cpi_pct,11.67918394,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2006,gcf_pct_gdp,22.46580574,Gross capital formation (% of GDP)
+GHA,Ghana,2006,fdi_net_inflows_pct,3.045290185,FDI net inflows (% of GDP)
+GHA,Ghana,2006,trade_pct_gdp,64.51905424,Trade (% of GDP)
+GHA,Ghana,2007,gdp_pc_current_usd,1050.124615,GDP per capita (current US$)
+GHA,Ghana,2007,gdp_pc_const2015_usd,1205.317058,GDP per capita (constant 2015 US$)
+GHA,Ghana,2007,gdp_growth_pct,4.346819104,GDP growth (annual %)
+GHA,Ghana,2007,gni_pc_atlas_usd,770,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2007,inflation_cpi_pct,10.73426655,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2007,gcf_pct_gdp,15.38454499,Gross capital formation (% of GDP)
+GHA,Ghana,2007,fdi_net_inflows_pct,5.57118877,FDI net inflows (% of GDP)
+GHA,Ghana,2007,trade_pct_gdp,65.35432229,Trade (% of GDP)
+GHA,Ghana,2008,gdp_pc_current_usd,1182.657613,GDP per capita (current US$)
+GHA,Ghana,2008,gdp_pc_const2015_usd,1282.634169,GDP per capita (constant 2015 US$)
+GHA,Ghana,2008,gdp_growth_pct,9.149798938,GDP growth (annual %)
+GHA,Ghana,2008,gni_pc_atlas_usd,1120,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2008,inflation_cpi_pct,16.49463961,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2008,gcf_pct_gdp,16.49196394,Gross capital formation (% of GDP)
+GHA,Ghana,2008,fdi_net_inflows_pct,9.466439082,FDI net inflows (% of GDP)
+GHA,Ghana,2008,trade_pct_gdp,69.51422561,Trade (% of GDP)
+GHA,Ghana,2009,gdp_pc_current_usd,1047.704301,GDP per capita (current US$)
+GHA,Ghana,2009,gdp_pc_const2015_usd,1311.630538,GDP per capita (constant 2015 US$)
+GHA,Ghana,2009,gdp_growth_pct,4.844487052,GDP growth (annual %)
+GHA,Ghana,2009,gni_pc_atlas_usd,1160,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2009,inflation_cpi_pct,19.24694822,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2009,gcf_pct_gdp,15.47882959,Gross capital formation (% of GDP)
+GHA,Ghana,2009,fdi_net_inflows_pct,9.108086691,FDI net inflows (% of GDP)
+GHA,Ghana,2009,trade_pct_gdp,71.59473853,Trade (% of GDP)
+GHA,Ghana,2010,gdp_pc_current_usd,1263.892518,GDP per capita (current US$)
+GHA,Ghana,2010,gdp_pc_const2015_usd,1381.22795,GDP per capita (constant 2015 US$)
+GHA,Ghana,2010,gdp_growth_pct,7.899711941,GDP growth (annual %)
+GHA,Ghana,2010,gni_pc_atlas_usd,1200,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2010,inflation_cpi_pct,10.73338984,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2010,gcf_pct_gdp,11.76409219,Gross capital formation (% of GDP)
+GHA,Ghana,2010,fdi_net_inflows_pct,7.849484553,FDI net inflows (% of GDP)
+GHA,Ghana,2010,trade_pct_gdp,75.37781579,Trade (% of GDP)
+GHA,Ghana,2011,gdp_pc_current_usd,1507.435732,GDP per capita (current US$)
+GHA,Ghana,2011,gdp_pc_const2015_usd,1537.81834,GDP per capita (constant 2015 US$)
+GHA,Ghana,2011,gdp_growth_pct,14.04712358,GDP growth (annual %)
+GHA,Ghana,2011,gni_pc_atlas_usd,1350,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2011,inflation_cpi_pct,8.728459371,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2011,gcf_pct_gdp,11.97694023,Gross capital formation (% of GDP)
+GHA,Ghana,2011,fdi_net_inflows_pct,8.255879713,FDI net inflows (% of GDP)
+GHA,Ghana,2011,trade_pct_gdp,86.29545385,Trade (% of GDP)
+GHA,Ghana,2012,gdp_pc_current_usd,1543.775242,GDP per capita (current US$)
+GHA,Ghana,2012,gdp_pc_const2015_usd,1640.540721,GDP per capita (constant 2015 US$)
+GHA,Ghana,2012,gdp_growth_pct,9.292789406,GDP growth (annual %)
+GHA,Ghana,2012,gni_pc_atlas_usd,1490,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2012,inflation_cpi_pct,11.18634094,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2012,gcf_pct_gdp,16.10990938,Gross capital formation (% of GDP)
+GHA,Ghana,2012,fdi_net_inflows_pct,7.982515659,FDI net inflows (% of GDP)
+GHA,Ghana,2012,trade_pct_gdp,93.16803513,Trade (% of GDP)
+GHA,Ghana,2013,gdp_pc_current_usd,2294.795847,GDP per capita (current US$)
+GHA,Ghana,2013,gdp_pc_const2015_usd,1718.597048,GDP per capita (constant 2015 US$)
+GHA,Ghana,2013,gdp_growth_pct,7.312525017,GDP growth (annual %)
+GHA,Ghana,2013,gni_pc_atlas_usd,1790,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2013,inflation_cpi_pct,11.66619231,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2013,gcf_pct_gdp,24.03899898,Gross capital formation (% of GDP)
+GHA,Ghana,2013,fdi_net_inflows_pct,5.134796609,FDI net inflows (% of GDP)
+GHA,Ghana,2013,trade_pct_gdp,60.7593219,Trade (% of GDP)
+GHA,Ghana,2014,gdp_pc_current_usd,1949.908329,GDP per capita (current US$)
+GHA,Ghana,2014,gdp_pc_const2015_usd,1726.369301,GDP per capita (constant 2015 US$)
+GHA,Ghana,2014,gdp_growth_pct,2.856240163,GDP growth (annual %)
+GHA,Ghana,2014,gni_pc_atlas_usd,1830,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2014,inflation_cpi_pct,15.48961603,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2014,gcf_pct_gdp,26.42288052,Gross capital formation (% of GDP)
+GHA,Ghana,2014,fdi_net_inflows_pct,6.151206352,FDI net inflows (% of GDP)
+GHA,Ghana,2014,trade_pct_gdp,63.83656244,Trade (% of GDP)
+GHA,Ghana,2015,gdp_pc_current_usd,1722.772828,GDP per capita (current US$)
+GHA,Ghana,2015,gdp_pc_const2015_usd,1722.772828,GDP per capita (constant 2015 US$)
+GHA,Ghana,2015,gdp_growth_pct,2.120759338,GDP growth (annual %)
+GHA,Ghana,2015,gni_pc_atlas_usd,1880,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2015,inflation_cpi_pct,17.1499695,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2015,gcf_pct_gdp,27.01262554,Gross capital formation (% of GDP)
+GHA,Ghana,2015,fdi_net_inflows_pct,6.457376142,FDI net inflows (% of GDP)
+GHA,Ghana,2015,trade_pct_gdp,76.52127092,Trade (% of GDP)
+GHA,Ghana,2016,gdp_pc_current_usd,1912.479913,GDP per capita (current US$)
+GHA,Ghana,2016,gdp_pc_const2015_usd,1740.811019,GDP per capita (constant 2015 US$)
+GHA,Ghana,2016,gdp_growth_pct,3.37346575,GDP growth (annual %)
+GHA,Ghana,2016,gni_pc_atlas_usd,1760,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2016,inflation_cpi_pct,17.45463471,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2016,gcf_pct_gdp,24.82616879,Gross capital formation (% of GDP)
+GHA,Ghana,2016,fdi_net_inflows_pct,6.207826718,FDI net inflows (% of GDP)
+GHA,Ghana,2016,trade_pct_gdp,67.87699944,Trade (% of GDP)
+GHA,Ghana,2017,gdp_pc_current_usd,2012.286626,GDP per capita (current US$)
+GHA,Ghana,2017,gdp_pc_const2015_usd,1841.446362,GDP per capita (constant 2015 US$)
+GHA,Ghana,2017,gdp_growth_pct,8.128894881,GDP growth (annual %)
+GHA,Ghana,2017,gni_pc_atlas_usd,1830,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2017,inflation_cpi_pct,12.37192155,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2017,gcf_pct_gdp,18.88642524,Gross capital formation (% of GDP)
+GHA,Ghana,2017,fdi_net_inflows_pct,5.390358417,FDI net inflows (% of GDP)
+GHA,Ghana,2017,trade_pct_gdp,70.54836529,Trade (% of GDP)
+GHA,Ghana,2018,gdp_pc_current_usd,2195.32166,GDP per capita (current US$)
+GHA,Ghana,2018,gdp_pc_const2015_usd,1915.453232,GDP per capita (constant 2015 US$)
+GHA,Ghana,2018,gdp_growth_pct,6.200077681,GDP growth (annual %)
+GHA,Ghana,2018,gni_pc_atlas_usd,2060,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2018,inflation_cpi_pct,7.808765166,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2018,gcf_pct_gdp,21.19909375,Gross capital formation (% of GDP)
+GHA,Ghana,2018,fdi_net_inflows_pct,4.444043577,FDI net inflows (% of GDP)
+GHA,Ghana,2018,trade_pct_gdp,67.95851746,Trade (% of GDP)
+GHA,Ghana,2019,gdp_pc_current_usd,2186.658227,GDP per capita (current US$)
+GHA,Ghana,2019,gdp_pc_const2015_usd,1999.553722,GDP per capita (constant 2015 US$)
+GHA,Ghana,2019,gdp_growth_pct,6.507774794,GDP growth (annual %)
+GHA,Ghana,2019,gni_pc_atlas_usd,2170,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2019,inflation_cpi_pct,7.143640033,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2019,gcf_pct_gdp,18.03819368,Gross capital formation (% of GDP)
+GHA,Ghana,2019,fdi_net_inflows_pct,5.67619931,FDI net inflows (% of GDP)
+GHA,Ghana,2019,trade_pct_gdp,76.82480273,Trade (% of GDP)
+GHA,Ghana,2020,gdp_pc_current_usd,2195.454817,GDP per capita (current US$)
+GHA,Ghana,2020,gdp_pc_const2015_usd,1970.194115,GDP per capita (constant 2015 US$)
+GHA,Ghana,2020,gdp_growth_pct,0.513941671,GDP growth (annual %)
+GHA,Ghana,2020,gni_pc_atlas_usd,2250,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2020,inflation_cpi_pct,9.887289563,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2020,gcf_pct_gdp,17.66074711,Gross capital formation (% of GDP)
+GHA,Ghana,2020,fdi_net_inflows_pct,2.679374385,FDI net inflows (% of GDP)
+GHA,Ghana,2020,trade_pct_gdp,66.57549872,Trade (% of GDP)
+GHA,Ghana,2021,gdp_pc_current_usd,2445.186625,GDP per capita (current US$)
+GHA,Ghana,2021,gdp_pc_const2015_usd,2030.048665,GDP per capita (constant 2015 US$)
+GHA,Ghana,2021,gdp_growth_pct,5.076466435,GDP growth (annual %)
+GHA,Ghana,2021,gni_pc_atlas_usd,2300,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2021,inflation_cpi_pct,9.971088675,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2021,gcf_pct_gdp,16.75365045,Gross capital formation (% of GDP)
+GHA,Ghana,2021,fdi_net_inflows_pct,3.18633189,FDI net inflows (% of GDP)
+GHA,Ghana,2021,trade_pct_gdp,62.70783091,Trade (% of GDP)
+GHA,Ghana,2022,gdp_pc_current_usd,2229.891226,GDP per capita (current US$)
+GHA,Ghana,2022,gdp_pc_const2015_usd,2067.208959,GDP per capita (constant 2015 US$)
+GHA,Ghana,2022,gdp_growth_pct,3.80484981,GDP growth (annual %)
+GHA,Ghana,2022,gni_pc_atlas_usd,2400,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2022,inflation_cpi_pct,31.2558951,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2022,gcf_pct_gdp,15.59657459,Gross capital formation (% of GDP)
+GHA,Ghana,2022,fdi_net_inflows_pct,1.932401243,FDI net inflows (% of GDP)
+GHA,Ghana,2022,trade_pct_gdp,70.1154558,Trade (% of GDP)
+GHA,Ghana,2023,gdp_pc_current_usd,2383.904105,GDP per capita (current US$)
+GHA,Ghana,2023,gdp_pc_const2015_usd,2091.813356,GDP per capita (constant 2015 US$)
+GHA,Ghana,2023,gdp_growth_pct,3.140090998,GDP growth (annual %)
+GHA,Ghana,2023,gni_pc_atlas_usd,2280,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2023,inflation_cpi_pct,38.10696563,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2023,gcf_pct_gdp,9.650406054,Gross capital formation (% of GDP)
+GHA,Ghana,2023,fdi_net_inflows_pct,1.637942082,FDI net inflows (% of GDP)
+GHA,Ghana,2023,trade_pct_gdp,64.38786153,Trade (% of GDP)
+GHA,Ghana,2024,gdp_pc_current_usd,2405.794664,GDP per capita (current US$)
+GHA,Ghana,2024,gdp_pc_const2015_usd,2169.665273,GDP per capita (constant 2015 US$)
+GHA,Ghana,2024,gdp_growth_pct,5.684872604,GDP growth (annual %)
+GHA,Ghana,2024,gni_pc_atlas_usd,2320,"GNI per capita, Atlas method (current US$)"
+GHA,Ghana,2024,inflation_cpi_pct,22.84832812,"Inflation, consumer prices (annual %)"
+GHA,Ghana,2024,gcf_pct_gdp,9.796417459,Gross capital formation (% of GDP)
+GHA,Ghana,2024,fdi_net_inflows_pct,2.131658825,FDI net inflows (% of GDP)
+GHA,Ghana,2024,trade_pct_gdp,69.35264917,Trade (% of GDP)
+GIN,Guinea,2000,gdp_pc_current_usd,518.1570669,GDP per capita (current US$)
+GIN,Guinea,2000,gdp_pc_const2015_usd,614.1372351,GDP per capita (constant 2015 US$)
+GIN,Guinea,2000,gdp_growth_pct,2.503060563,GDP growth (annual %)
+GIN,Guinea,2000,gni_pc_atlas_usd,580,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2000,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2000,gcf_pct_gdp,13.43804676,Gross capital formation (% of GDP)
+GIN,Guinea,2000,fdi_net_inflows_pct,0.227638091,FDI net inflows (% of GDP)
+GIN,Guinea,2000,trade_pct_gdp,36.67969549,Trade (% of GDP)
+GIN,Guinea,2001,gdp_pc_current_usd,483.0851202,GDP per capita (current US$)
+GIN,Guinea,2001,gdp_pc_const2015_usd,628.3205549,GDP per capita (constant 2015 US$)
+GIN,Guinea,2001,gdp_growth_pct,3.658346469,GDP growth (annual %)
+GIN,Guinea,2001,gni_pc_atlas_usd,530,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2001,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2001,gcf_pct_gdp,10.63007632,Gross capital formation (% of GDP)
+GIN,Guinea,2001,fdi_net_inflows_pct,0.040649346,FDI net inflows (% of GDP)
+GIN,Guinea,2001,trade_pct_gdp,40.18787814,Trade (% of GDP)
+GIN,Guinea,2002,gdp_pc_current_usd,495.9160736,GDP per capita (current US$)
+GIN,Guinea,2002,gdp_pc_const2015_usd,650.554964,GDP per capita (constant 2015 US$)
+GIN,Guinea,2002,gdp_growth_pct,5.164609467,GDP growth (annual %)
+GIN,Guinea,2002,gni_pc_atlas_usd,500,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2002,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2002,gcf_pct_gdp,9.806805539,Gross capital formation (% of GDP)
+GIN,Guinea,2002,fdi_net_inflows_pct,0.697413496,FDI net inflows (% of GDP)
+GIN,Guinea,2002,trade_pct_gdp,38.02840327,Trade (% of GDP)
+GIN,Guinea,2003,gdp_pc_current_usd,566.4854059,GDP per capita (current US$)
+GIN,Guinea,2003,gdp_pc_const2015_usd,644.0712179,GDP per capita (constant 2015 US$)
+GIN,Guinea,2003,gdp_growth_pct,1.248601259,GDP growth (annual %)
+GIN,Guinea,2003,gni_pc_atlas_usd,500,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2003,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2003,gcf_pct_gdp,13.58869769,Gross capital formation (% of GDP)
+GIN,Guinea,2003,fdi_net_inflows_pct,1.571410158,FDI net inflows (% of GDP)
+GIN,Guinea,2003,trade_pct_gdp,35.07512699,Trade (% of GDP)
+GIN,Guinea,2004,gdp_pc_current_usd,584.8977405,GDP per capita (current US$)
+GIN,Guinea,2004,gdp_pc_const2015_usd,645.1828434,GDP per capita (constant 2015 US$)
+GIN,Guinea,2004,gdp_growth_pct,2.340117313,GDP growth (annual %)
+GIN,Guinea,2004,gni_pc_atlas_usd,550,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2004,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2004,gcf_pct_gdp,13.54283094,Gross capital formation (% of GDP)
+GIN,Guinea,2004,fdi_net_inflows_pct,1.846902198,FDI net inflows (% of GDP)
+GIN,Guinea,2004,trade_pct_gdp,34.59509592,Trade (% of GDP)
+GIN,Guinea,2005,gdp_pc_current_usd,463.1776869,GDP per capita (current US$)
+GIN,Guinea,2005,gdp_pc_const2015_usd,651.3596069,GDP per capita (constant 2015 US$)
+GIN,Guinea,2005,gdp_growth_pct,2.997272563,GDP growth (annual %)
+GIN,Guinea,2005,gni_pc_atlas_usd,530,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2005,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2005,gcf_pct_gdp,12.72542006,Gross capital formation (% of GDP)
+GIN,Guinea,2005,fdi_net_inflows_pct,2.451856835,FDI net inflows (% of GDP)
+GIN,Guinea,2005,trade_pct_gdp,47.93770039,Trade (% of GDP)
+GIN,Guinea,2006,gdp_pc_current_usd,446.9805541,GDP per capita (current US$)
+GIN,Guinea,2006,gdp_pc_const2015_usd,645.4720019,GDP per capita (constant 2015 US$)
+GIN,Guinea,2006,gdp_growth_pct,1.189602117,GDP growth (annual %)
+GIN,Guinea,2006,gni_pc_atlas_usd,500,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2006,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2006,gcf_pct_gdp,19.95275809,Gross capital formation (% of GDP)
+GIN,Guinea,2006,fdi_net_inflows_pct,2.962071378,FDI net inflows (% of GDP)
+GIN,Guinea,2006,trade_pct_gdp,69.38629371,Trade (% of GDP)
+GIN,Guinea,2007,gdp_pc_current_usd,650.1485753,GDP per capita (current US$)
+GIN,Guinea,2007,gdp_pc_const2015_usd,673.6989974,GDP per capita (constant 2015 US$)
+GIN,Guinea,2007,gdp_growth_pct,6.817471111,GDP growth (annual %)
+GIN,Guinea,2007,gni_pc_atlas_usd,530,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2007,inflation_cpi_pct,18.17556561,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2007,gcf_pct_gdp,24.66995872,Gross capital formation (% of GDP)
+GIN,Guinea,2007,fdi_net_inflows_pct,6.14302807,FDI net inflows (% of GDP)
+GIN,Guinea,2007,trade_pct_gdp,71.12103223,Trade (% of GDP)
+GIN,Guinea,2008,gdp_pc_current_usd,703.5328258,GDP per capita (current US$)
+GIN,Guinea,2008,gdp_pc_const2015_usd,684.7757804,GDP per capita (constant 2015 US$)
+GIN,Guinea,2008,gdp_growth_pct,4.13301616,GDP growth (annual %)
+GIN,Guinea,2008,gni_pc_atlas_usd,610,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2008,inflation_cpi_pct,23.06561294,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2008,gcf_pct_gdp,22.58947508,Gross capital formation (% of GDP)
+GIN,Guinea,2008,fdi_net_inflows_pct,5.483488378,FDI net inflows (% of GDP)
+GIN,Guinea,2008,trade_pct_gdp,64.18424339,Trade (% of GDP)
+GIN,Guinea,2009,gdp_pc_current_usd,662.1859147,GDP per capita (current US$)
+GIN,Guinea,2009,gdp_pc_const2015_usd,660.7567013,GDP per capita (constant 2015 US$)
+GIN,Guinea,2009,gdp_growth_pct,-1.122642048,GDP growth (annual %)
+GIN,Guinea,2009,gni_pc_atlas_usd,660,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2009,inflation_cpi_pct,4.68438869,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2009,gcf_pct_gdp,20.93560311,Gross capital formation (% of GDP)
+GIN,Guinea,2009,fdi_net_inflows_pct,1.355237202,FDI net inflows (% of GDP)
+GIN,Guinea,2009,trade_pct_gdp,69.81534542,Trade (% of GDP)
+GIN,Guinea,2010,gdp_pc_current_usd,659.2353262,GDP per capita (current US$)
+GIN,Guinea,2010,gdp_pc_const2015_usd,675.7369173,GDP per capita (constant 2015 US$)
+GIN,Guinea,2010,gdp_growth_pct,4.81336017,GDP growth (annual %)
+GIN,Guinea,2010,gni_pc_atlas_usd,680,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2010,inflation_cpi_pct,15.05026886,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2010,gcf_pct_gdp,19.13718924,Gross capital formation (% of GDP)
+GIN,Guinea,2010,fdi_net_inflows_pct,NA,FDI net inflows (% of GDP)
+GIN,Guinea,2010,trade_pct_gdp,73.54657393,Trade (% of GDP)
+GIN,Guinea,2011,gdp_pc_current_usd,636.6949587,GDP per capita (current US$)
+GIN,Guinea,2011,gdp_pc_const2015_usd,696.1999914,GDP per capita (constant 2015 US$)
+GIN,Guinea,2011,gdp_growth_pct,5.612111774,GDP growth (annual %)
+GIN,Guinea,2011,gni_pc_atlas_usd,670,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2011,inflation_cpi_pct,21.31692685,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2011,gcf_pct_gdp,23.60218868,Gross capital formation (% of GDP)
+GIN,Guinea,2011,fdi_net_inflows_pct,14.09050357,FDI net inflows (% of GDP)
+GIN,Guinea,2011,trade_pct_gdp,85.95467327,Trade (% of GDP)
+GIN,Guinea,2012,gdp_pc_current_usd,699.3533772,GDP per capita (current US$)
+GIN,Guinea,2012,gdp_pc_const2015_usd,719.5059168,GDP per capita (constant 2015 US$)
+GIN,Guinea,2012,gdp_growth_pct,5.915286261,GDP growth (annual %)
+GIN,Guinea,2012,gni_pc_atlas_usd,680,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2012,inflation_cpi_pct,15.2262941,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2012,gcf_pct_gdp,25.11778155,Gross capital formation (% of GDP)
+GIN,Guinea,2012,fdi_net_inflows_pct,7.92820722,FDI net inflows (% of GDP)
+GIN,Guinea,2012,trade_pct_gdp,86.67433183,Trade (% of GDP)
+GIN,Guinea,2013,gdp_pc_current_usd,748.4550208,GDP per capita (current US$)
+GIN,Guinea,2013,gdp_pc_const2015_usd,729.8331432,GDP per capita (constant 2015 US$)
+GIN,Guinea,2013,gdp_growth_pct,3.945687086,GDP growth (annual %)
+GIN,Guinea,2013,gni_pc_atlas_usd,680,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2013,inflation_cpi_pct,11.88758845,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2013,gcf_pct_gdp,23.42938647,Gross capital formation (% of GDP)
+GIN,Guinea,2013,fdi_net_inflows_pct,0.00226822,FDI net inflows (% of GDP)
+GIN,Guinea,2013,trade_pct_gdp,80.42644772,Trade (% of GDP)
+GIN,Guinea,2014,gdp_pc_current_usd,765.1469994,GDP per capita (current US$)
+GIN,Guinea,2014,gdp_pc_const2015_usd,738.2722745,GDP per capita (constant 2015 US$)
+GIN,Guinea,2014,gdp_growth_pct,3.696553117,GDP growth (annual %)
+GIN,Guinea,2014,gni_pc_atlas_usd,730,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2014,inflation_cpi_pct,6.150505567,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2014,gcf_pct_gdp,22.71137065,Gross capital formation (% of GDP)
+GIN,Guinea,2014,fdi_net_inflows_pct,-0.840221306,FDI net inflows (% of GDP)
+GIN,Guinea,2014,trade_pct_gdp,76.7719659,Trade (% of GDP)
+GIN,Guinea,2015,gdp_pc_current_usd,747.3569668,GDP per capita (current US$)
+GIN,Guinea,2015,gdp_pc_const2015_usd,747.3569668,GDP per capita (constant 2015 US$)
+GIN,Guinea,2015,gdp_growth_pct,3.825910569,GDP growth (annual %)
+GIN,Guinea,2015,gni_pc_atlas_usd,740,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2015,inflation_cpi_pct,11.7800825,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2015,gcf_pct_gdp,23.96917417,Gross capital formation (% of GDP)
+GIN,Guinea,2015,fdi_net_inflows_pct,0.605767982,FDI net inflows (% of GDP)
+GIN,Guinea,2015,trade_pct_gdp,72.44273075,Trade (% of GDP)
+GIN,Guinea,2016,gdp_pc_current_usd,711.9965098,GDP per capita (current US$)
+GIN,Guinea,2016,gdp_pc_const2015_usd,807.236421,GDP per capita (constant 2015 US$)
+GIN,Guinea,2016,gdp_growth_pct,10.8206272,GDP growth (annual %)
+GIN,Guinea,2016,gni_pc_atlas_usd,760,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2016,inflation_cpi_pct,8.172681123,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2016,gcf_pct_gdp,52.41831913,Gross capital formation (% of GDP)
+GIN,Guinea,2016,fdi_net_inflows_pct,18.82800943,FDI net inflows (% of GDP)
+GIN,Guinea,2016,trade_pct_gdp,111.8394674,Trade (% of GDP)
+GIN,Guinea,2017,gdp_pc_current_usd,833.5986217,GDP per capita (current US$)
+GIN,Guinea,2017,gdp_pc_const2015_usd,867.9075026,GDP per capita (constant 2015 US$)
+GIN,Guinea,2017,gdp_growth_pct,10.30000534,GDP growth (annual %)
+GIN,Guinea,2017,gni_pc_atlas_usd,800,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2017,inflation_cpi_pct,8.914359479,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2017,gcf_pct_gdp,25.76582414,Gross capital formation (% of GDP)
+GIN,Guinea,2017,fdi_net_inflows_pct,5.594271746,FDI net inflows (% of GDP)
+GIN,Guinea,2017,trade_pct_gdp,101.2516338,Trade (% of GDP)
+GIN,Guinea,2018,gdp_pc_current_usd,933.2736156,GDP per capita (current US$)
+GIN,Guinea,2018,gdp_pc_const2015_usd,899.907328,GDP per capita (constant 2015 US$)
+GIN,Guinea,2018,gdp_growth_pct,6.358491927,GDP growth (annual %)
+GIN,Guinea,2018,gni_pc_atlas_usd,860,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2018,inflation_cpi_pct,9.827617013,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2018,gcf_pct_gdp,19.46740955,Gross capital formation (% of GDP)
+GIN,Guinea,2018,fdi_net_inflows_pct,2.975112563,FDI net inflows (% of GDP)
+GIN,Guinea,2018,trade_pct_gdp,88.98411154,Trade (% of GDP)
+GIN,Guinea,2019,gdp_pc_current_usd,1031.341465,GDP per capita (current US$)
+GIN,Guinea,2019,gdp_pc_const2015_usd,926.4222195,GDP per capita (constant 2015 US$)
+GIN,Guinea,2019,gdp_growth_pct,5.616914469,GDP growth (annual %)
+GIN,Guinea,2019,gni_pc_atlas_usd,970,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2019,inflation_cpi_pct,9.470010393,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2019,gcf_pct_gdp,17.79924111,Gross capital formation (% of GDP)
+GIN,Guinea,2019,fdi_net_inflows_pct,0.330286822,FDI net inflows (% of GDP)
+GIN,Guinea,2019,trade_pct_gdp,78.41531323,Trade (% of GDP)
+GIN,Guinea,2020,gdp_pc_current_usd,1053.660977,GDP per capita (current US$)
+GIN,Guinea,2020,gdp_pc_const2015_usd,945.5709034,GDP per capita (constant 2015 US$)
+GIN,Guinea,2020,gdp_growth_pct,4.704590961,GDP growth (annual %)
+GIN,Guinea,2020,gni_pc_atlas_usd,1030,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2020,inflation_cpi_pct,10.60162034,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2020,gcf_pct_gdp,16.57538689,Gross capital formation (% of GDP)
+GIN,Guinea,2020,fdi_net_inflows_pct,1.251712921,FDI net inflows (% of GDP)
+GIN,Guinea,2020,trade_pct_gdp,115.7652595,Trade (% of GDP)
+GIN,Guinea,2021,gdp_pc_current_usd,1244.965505,GDP per capita (current US$)
+GIN,Guinea,2021,gdp_pc_const2015_usd,973.6468901,GDP per capita (constant 2015 US$)
+GIN,Guinea,2021,gdp_growth_pct,5.582332811,GDP growth (annual %)
+GIN,Guinea,2021,gni_pc_atlas_usd,1120,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2021,inflation_cpi_pct,12.59728826,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2021,gcf_pct_gdp,15.02252636,Gross capital formation (% of GDP)
+GIN,Guinea,2021,fdi_net_inflows_pct,1.157704963,FDI net inflows (% of GDP)
+GIN,Guinea,2021,trade_pct_gdp,115.1955328,Trade (% of GDP)
+GIN,Guinea,2022,gdp_pc_current_usd,1416.59612,GDP per capita (current US$)
+GIN,Guinea,2022,gdp_pc_const2015_usd,987.5025015,GDP per capita (constant 2015 US$)
+GIN,Guinea,2022,gdp_growth_pct,3.972407842,GDP growth (annual %)
+GIN,Guinea,2022,gni_pc_atlas_usd,1280,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2022,inflation_cpi_pct,10.493041,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2022,gcf_pct_gdp,15.21749545,Gross capital formation (% of GDP)
+GIN,Guinea,2022,fdi_net_inflows_pct,3.306303554,FDI net inflows (% of GDP)
+GIN,Guinea,2022,trade_pct_gdp,94.16527269,Trade (% of GDP)
+GIN,Guinea,2023,gdp_pc_current_usd,1555.493758,GDP per capita (current US$)
+GIN,Guinea,2023,gdp_pc_const2015_usd,1016.880948,GDP per capita (constant 2015 US$)
+GIN,Guinea,2023,gdp_growth_pct,5.541726686,GDP growth (annual %)
+GIN,Guinea,2023,gni_pc_atlas_usd,1340,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2023,inflation_cpi_pct,7.804975919,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2023,gcf_pct_gdp,24.50161136,Gross capital formation (% of GDP)
+GIN,Guinea,2023,fdi_net_inflows_pct,5.868228133,FDI net inflows (% of GDP)
+GIN,Guinea,2023,trade_pct_gdp,95.82952676,Trade (% of GDP)
+GIN,Guinea,2024,gdp_pc_current_usd,1717.023181,GDP per capita (current US$)
+GIN,Guinea,2024,gdp_pc_const2015_usd,1049.083938,GDP per capita (constant 2015 US$)
+GIN,Guinea,2024,gdp_growth_pct,5.668523935,GDP growth (annual %)
+GIN,Guinea,2024,gni_pc_atlas_usd,1470,"GNI per capita, Atlas method (current US$)"
+GIN,Guinea,2024,inflation_cpi_pct,8.123139149,"Inflation, consumer prices (annual %)"
+GIN,Guinea,2024,gcf_pct_gdp,32.13021294,Gross capital formation (% of GDP)
+GIN,Guinea,2024,fdi_net_inflows_pct,5.533326613,FDI net inflows (% of GDP)
+GIN,Guinea,2024,trade_pct_gdp,100.0932025,Trade (% of GDP)
+GNB,Guinea-Bissau,2000,gdp_pc_current_usd,316.945495,GDP per capita (current US$)
+GNB,Guinea-Bissau,2000,gdp_pc_const2015_usd,571.0940152,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2000,gdp_growth_pct,1.100278158,GDP growth (annual %)
+GNB,Guinea-Bissau,2000,gni_pc_atlas_usd,410,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2000,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2000,gcf_pct_gdp,19.94361476,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2000,fdi_net_inflows_pct,0.179450083,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2000,trade_pct_gdp,52.73734612,Trade (% of GDP)
+GNB,Guinea-Bissau,2001,gdp_pc_current_usd,327.138432,GDP per capita (current US$)
+GNB,Guinea-Bissau,2001,gdp_pc_const2015_usd,585.8379807,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2001,gdp_growth_pct,4.78597165,GDP growth (annual %)
+GNB,Guinea-Bissau,2001,gni_pc_atlas_usd,350,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2001,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2001,gcf_pct_gdp,18.76802945,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2001,fdi_net_inflows_pct,0.095880556,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2001,trade_pct_gdp,47.58321728,Trade (% of GDP)
+GNB,Guinea-Bissau,2002,gdp_pc_current_usd,362.0345746,GDP per capita (current US$)
+GNB,Guinea-Bissau,2002,gdp_pc_const2015_usd,594.0405352,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2002,gdp_growth_pct,3.653936036,GDP growth (annual %)
+GNB,Guinea-Bissau,2002,gni_pc_atlas_usd,330,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2002,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2002,gcf_pct_gdp,23.47846727,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2002,fdi_net_inflows_pct,0.759522999,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2002,trade_pct_gdp,39.67606356,Trade (% of GDP)
+GNB,Guinea-Bissau,2003,gdp_pc_current_usd,419.7848661,GDP per capita (current US$)
+GNB,Guinea-Bissau,2003,gdp_pc_const2015_usd,579.0925068,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2003,gdp_growth_pct,-0.285931052,GDP growth (annual %)
+GNB,Guinea-Bissau,2003,gni_pc_atlas_usd,360,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2003,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2003,gcf_pct_gdp,27.52951898,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2003,fdi_net_inflows_pct,0.723518173,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2003,trade_pct_gdp,38.03347093,Trade (% of GDP)
+GNB,Guinea-Bissau,2004,gdp_pc_current_usd,431.3765577,GDP per capita (current US$)
+GNB,Guinea-Bissau,2004,gdp_pc_const2015_usd,572.5264646,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2004,gdp_growth_pct,1.171891523,GDP growth (annual %)
+GNB,Guinea-Bissau,2004,gni_pc_atlas_usd,410,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2004,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2004,gcf_pct_gdp,20.8349347,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2004,fdi_net_inflows_pct,0.329050599,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2004,trade_pct_gdp,43.19213163,Trade (% of GDP)
+GNB,Guinea-Bissau,2005,gdp_pc_current_usd,463.0739627,GDP per capita (current US$)
+GNB,Guinea-Bissau,2005,gdp_pc_const2015_usd,595.9425556,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2005,gdp_growth_pct,6.559771118,GDP growth (annual %)
+GNB,Guinea-Bissau,2005,gni_pc_atlas_usd,470,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2005,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2005,gcf_pct_gdp,18.13513114,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2005,fdi_net_inflows_pct,1.358673588,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2005,trade_pct_gdp,45.78423155,Trade (% of GDP)
+GNB,Guinea-Bissau,2006,gdp_pc_current_usd,448.5130755,GDP per capita (current US$)
+GNB,Guinea-Bissau,2006,gdp_pc_const2015_usd,597.2571517,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2006,gdp_growth_pct,2.666504933,GDP growth (annual %)
+GNB,Guinea-Bissau,2006,gni_pc_atlas_usd,470,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2006,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2006,gcf_pct_gdp,19.96036838,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2006,fdi_net_inflows_pct,2.817837674,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2006,trade_pct_gdp,48.76050339,Trade (% of GDP)
+GNB,Guinea-Bissau,2007,gdp_pc_current_usd,519.0697898,GDP per capita (current US$)
+GNB,Guinea-Bissau,2007,gdp_pc_const2015_usd,597.4820209,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2007,gdp_growth_pct,2.559826471,GDP growth (annual %)
+GNB,Guinea-Bissau,2007,gni_pc_atlas_usd,480,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2007,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2007,gcf_pct_gdp,24.14806248,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2007,fdi_net_inflows_pct,2.492172019,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2007,trade_pct_gdp,46.24452847,Trade (% of GDP)
+GNB,Guinea-Bissau,2008,gdp_pc_current_usd,640.2103311,GDP per capita (current US$)
+GNB,Guinea-Bissau,2008,gdp_pc_const2015_usd,608.9586205,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2008,gdp_growth_pct,4.524575146,GDP growth (annual %)
+GNB,Guinea-Bissau,2008,gni_pc_atlas_usd,540,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2008,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2008,gcf_pct_gdp,17.23079661,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2008,fdi_net_inflows_pct,0.695948347,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2008,trade_pct_gdp,45.13888937,Trade (% of GDP)
+GNB,Guinea-Bissau,2009,gdp_pc_current_usd,583.1900201,GDP per capita (current US$)
+GNB,Guinea-Bissau,2009,gdp_pc_const2015_usd,608.2021319,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2009,gdp_growth_pct,2.447951061,GDP growth (annual %)
+GNB,Guinea-Bissau,2009,gni_pc_atlas_usd,590,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2009,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2009,gcf_pct_gdp,18.25736059,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2009,fdi_net_inflows_pct,2.122094204,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2009,trade_pct_gdp,43.59574741,Trade (% of GDP)
+GNB,Guinea-Bissau,2010,gdp_pc_current_usd,600.1942985,GDP per capita (current US$)
+GNB,Guinea-Bissau,2010,gdp_pc_const2015_usd,625.9040273,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2010,gdp_growth_pct,5.605363114,GDP growth (annual %)
+GNB,Guinea-Bissau,2010,gni_pc_atlas_usd,620,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2010,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2010,gcf_pct_gdp,19.36645239,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2010,fdi_net_inflows_pct,2.791176472,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2010,trade_pct_gdp,43.51458764,Trade (% of GDP)
+GNB,Guinea-Bissau,2011,gdp_pc_current_usd,719.5395735,GDP per capita (current US$)
+GNB,Guinea-Bissau,2011,gdp_pc_const2015_usd,658.9534705,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2011,gdp_growth_pct,8.085041672,GDP growth (annual %)
+GNB,Guinea-Bissau,2011,gni_pc_atlas_usd,660,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2011,inflation_cpi_pct,5.046102263,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2011,gcf_pct_gdp,15.72471446,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2011,fdi_net_inflows_pct,2.162700094,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2011,trade_pct_gdp,48.61746021,Trade (% of GDP)
+GNB,Guinea-Bissau,2012,gdp_pc_current_usd,635.4616533,GDP per capita (current US$)
+GNB,Guinea-Bissau,2012,gdp_pc_const2015_usd,630.668623,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2012,gdp_growth_pct,-1.712869584,GDP growth (annual %)
+GNB,Guinea-Bissau,2012,gni_pc_atlas_usd,630,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2012,inflation_cpi_pct,2.130545803,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2012,gcf_pct_gdp,19.20984137,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2012,fdi_net_inflows_pct,0.631297915,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2012,trade_pct_gdp,44.12806656,Trade (% of GDP)
+GNB,Guinea-Bissau,2013,gdp_pc_current_usd,654.3045344,GDP per capita (current US$)
+GNB,Guinea-Bissau,2013,gdp_pc_const2015_usd,634.0954561,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2013,gdp_growth_pct,3.256071909,GDP growth (annual %)
+GNB,Guinea-Bissau,2013,gni_pc_atlas_usd,660,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2013,inflation_cpi_pct,1.207125557,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2013,gcf_pct_gdp,17.64943044,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2013,fdi_net_inflows_pct,1.769848408,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2013,trade_pct_gdp,39.95746178,Trade (% of GDP)
+GNB,Guinea-Bissau,2014,gdp_pc_current_usd,652.022501,GDP per capita (current US$)
+GNB,Guinea-Bissau,2014,gdp_pc_const2015_usd,623.6101591,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2014,gdp_growth_pct,0.964525746,GDP growth (annual %)
+GNB,Guinea-Bissau,2014,gni_pc_atlas_usd,660,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2014,inflation_cpi_pct,-1.509244606,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2014,gcf_pct_gdp,18.43614583,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2014,fdi_net_inflows_pct,2.541529122,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2014,trade_pct_gdp,46.86965831,Trade (% of GDP)
+GNB,Guinea-Bissau,2015,gdp_pc_current_usd,645.0668372,GDP per capita (current US$)
+GNB,Guinea-Bissau,2015,gdp_pc_const2015_usd,645.0668372,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2015,gdp_growth_pct,6.134089362,GDP growth (annual %)
+GNB,Guinea-Bissau,2015,gni_pc_atlas_usd,670,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2015,inflation_cpi_pct,1.476720489,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2015,gcf_pct_gdp,16.19440983,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2015,fdi_net_inflows_pct,1.61191901,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2015,trade_pct_gdp,54.37037559,Trade (% of GDP)
+GNB,Guinea-Bissau,2016,gdp_pc_current_usd,679.6653866,GDP per capita (current US$)
+GNB,Guinea-Bissau,2016,gdp_pc_const2015_usd,663.242608,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2016,gdp_growth_pct,5.432678265,GDP growth (annual %)
+GNB,Guinea-Bissau,2016,gni_pc_atlas_usd,670,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2016,inflation_cpi_pct,1.503120559,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2016,gcf_pct_gdp,17.97101803,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2016,fdi_net_inflows_pct,1.927482726,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2016,trade_pct_gdp,54.30067305,Trade (% of GDP)
+GNB,Guinea-Bissau,2017,gdp_pc_current_usd,783.1231866,GDP per capita (current US$)
+GNB,Guinea-Bissau,2017,gdp_pc_const2015_usd,677.4661313,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2017,gdp_growth_pct,4.663679439,GDP growth (annual %)
+GNB,Guinea-Bissau,2017,gni_pc_atlas_usd,710,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2017,inflation_cpi_pct,1.691114618,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2017,gcf_pct_gdp,17.9786141,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2017,fdi_net_inflows_pct,1.067443967,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2017,trade_pct_gdp,56.91374759,Trade (% of GDP)
+GNB,Guinea-Bissau,2018,gdp_pc_current_usd,808.5316132,GDP per capita (current US$)
+GNB,Guinea-Bissau,2018,gdp_pc_const2015_usd,686.4568198,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2018,gdp_growth_pct,3.761453596,GDP growth (annual %)
+GNB,Guinea-Bissau,2018,gni_pc_atlas_usd,750,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2018,inflation_cpi_pct,0.381324703,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2018,gcf_pct_gdp,19.02117377,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2018,fdi_net_inflows_pct,1.323169276,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2018,trade_pct_gdp,55.01958904,Trade (% of GDP)
+GNB,Guinea-Bissau,2019,gdp_pc_current_usd,807.4255249,GDP per capita (current US$)
+GNB,Guinea-Bissau,2019,gdp_pc_const2015_usd,707.8962024,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2019,gdp_growth_pct,5.565745336,GDP growth (annual %)
+GNB,Guinea-Bissau,2019,gni_pc_atlas_usd,850,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2019,inflation_cpi_pct,0.246600268,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2019,gcf_pct_gdp,24.01511277,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2019,fdi_net_inflows_pct,4.510330107,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2019,trade_pct_gdp,50.17798671,Trade (% of GDP)
+GNB,Guinea-Bissau,2020,gdp_pc_current_usd,836.2673142,GDP per capita (current US$)
+GNB,Guinea-Bissau,2020,gdp_pc_const2015_usd,706.6007834,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2020,gdp_growth_pct,2.128114901,GDP growth (annual %)
+GNB,Guinea-Bissau,2020,gni_pc_atlas_usd,850,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2020,inflation_cpi_pct,1.140009394,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2020,gcf_pct_gdp,25.6770125,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2020,fdi_net_inflows_pct,1.246702326,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2020,trade_pct_gdp,43.43044813,Trade (% of GDP)
+GNB,Guinea-Bissau,2021,gdp_pc_current_usd,912.4841047,GDP per capita (current US$)
+GNB,Guinea-Bissau,2021,gdp_pc_const2015_usd,727.1433956,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2021,gdp_growth_pct,5.237366406,GDP growth (annual %)
+GNB,Guinea-Bissau,2021,gni_pc_atlas_usd,900,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2021,inflation_cpi_pct,2.242488796,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2021,gcf_pct_gdp,21.60109551,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2021,fdi_net_inflows_pct,0.986326767,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2021,trade_pct_gdp,45.51078469,Trade (% of GDP)
+GNB,Guinea-Bissau,2022,gdp_pc_current_usd,873.4378619,GDP per capita (current US$)
+GNB,Guinea-Bissau,2022,gdp_pc_const2015_usd,750.7311453,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2022,gdp_growth_pct,5.58513728,GDP growth (annual %)
+GNB,Guinea-Bissau,2022,gni_pc_atlas_usd,950,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2022,inflation_cpi_pct,9.39075934,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2022,gcf_pct_gdp,21.42584651,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2022,fdi_net_inflows_pct,1.177674266,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2022,trade_pct_gdp,46.27085662,Trade (% of GDP)
+GNB,Guinea-Bissau,2023,gdp_pc_current_usd,964.9275542,GDP per capita (current US$)
+GNB,Guinea-Bissau,2023,gdp_pc_const2015_usd,766.8292254,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2023,gdp_growth_pct,4.463699361,GDP growth (annual %)
+GNB,Guinea-Bissau,2023,gni_pc_atlas_usd,970,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2023,inflation_cpi_pct,7.102209286,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2023,gcf_pct_gdp,21.56178378,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2023,fdi_net_inflows_pct,1.209601774,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2023,trade_pct_gdp,41.61106435,Trade (% of GDP)
+GNB,Guinea-Bissau,2024,gdp_pc_current_usd,962.9836279,GDP per capita (current US$)
+GNB,Guinea-Bissau,2024,gdp_pc_const2015_usd,786.210311,GDP per capita (constant 2015 US$)
+GNB,Guinea-Bissau,2024,gdp_growth_pct,4.813485952,GDP growth (annual %)
+GNB,Guinea-Bissau,2024,gni_pc_atlas_usd,960,"GNI per capita, Atlas method (current US$)"
+GNB,Guinea-Bissau,2024,inflation_cpi_pct,3.765558258,"Inflation, consumer prices (annual %)"
+GNB,Guinea-Bissau,2024,gcf_pct_gdp,22.83187487,Gross capital formation (% of GDP)
+GNB,Guinea-Bissau,2024,fdi_net_inflows_pct,1.25508786,FDI net inflows (% of GDP)
+GNB,Guinea-Bissau,2024,trade_pct_gdp,40.66132172,Trade (% of GDP)
+LBR,Liberia,2000,gdp_pc_current_usd,298.4853406,GDP per capita (current US$)
+LBR,Liberia,2000,gdp_pc_const2015_usd,754.8509174,GDP per capita (constant 2015 US$)
+LBR,Liberia,2000,gdp_growth_pct,28.61593425,GDP growth (annual %)
+LBR,Liberia,2000,gni_pc_atlas_usd,190,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2000,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2000,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2000,fdi_net_inflows_pct,2.3798627,FDI net inflows (% of GDP)
+LBR,Liberia,2000,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2001,gdp_pc_current_usd,300.4638286,GDP per capita (current US$)
+LBR,Liberia,2001,gdp_pc_const2015_usd,754.4223558,GDP per capita (constant 2015 US$)
+LBR,Liberia,2001,gdp_growth_pct,2.920274766,GDP growth (annual %)
+LBR,Liberia,2001,gni_pc_atlas_usd,210,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2001,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2001,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2001,fdi_net_inflows_pct,0.91611479,FDI net inflows (% of GDP)
+LBR,Liberia,2001,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2002,gdp_pc_current_usd,299.5364455,GDP per capita (current US$)
+LBR,Liberia,2002,gdp_pc_const2015_usd,762.7163939,GDP per capita (constant 2015 US$)
+LBR,Liberia,2002,gdp_growth_pct,3.763017617,GDP growth (annual %)
+LBR,Liberia,2002,gni_pc_atlas_usd,250,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2002,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2002,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2002,fdi_net_inflows_pct,0.302049622,FDI net inflows (% of GDP)
+LBR,Liberia,2002,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2003,gdp_pc_current_usd,239.7795567,GDP per capita (current US$)
+LBR,Liberia,2003,gdp_pc_const2015_usd,528.5673955,GDP per capita (constant 2015 US$)
+LBR,Liberia,2003,gdp_growth_pct,-30.14513273,GDP growth (annual %)
+LBR,Liberia,2003,gni_pc_atlas_usd,180,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2003,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2003,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2003,fdi_net_inflows_pct,49.76203209,FDI net inflows (% of GDP)
+LBR,Liberia,2003,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2004,gdp_pc_current_usd,284.140224,GDP per capita (current US$)
+LBR,Liberia,2004,gdp_pc_const2015_usd,535.9958821,GDP per capita (constant 2015 US$)
+LBR,Liberia,2004,gdp_growth_pct,2.619846895,GDP growth (annual %)
+LBR,Liberia,2004,gni_pc_atlas_usd,210,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2004,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2004,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2004,fdi_net_inflows_pct,8.400416014,FDI net inflows (% of GDP)
+LBR,Liberia,2004,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2005,gdp_pc_current_usd,287.4873334,GDP per capita (current US$)
+LBR,Liberia,2005,gdp_pc_const2015_usd,539.6653788,GDP per capita (constant 2015 US$)
+LBR,Liberia,2005,gdp_growth_pct,5.281212453,GDP growth (annual %)
+LBR,Liberia,2005,gni_pc_atlas_usd,240,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2005,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2005,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2005,fdi_net_inflows_pct,8.725196147,FDI net inflows (% of GDP)
+LBR,Liberia,2005,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2006,gdp_pc_current_usd,320.5580862,GDP per capita (current US$)
+LBR,Liberia,2006,gdp_pc_const2015_usd,551.3774466,GDP per capita (constant 2015 US$)
+LBR,Liberia,2006,gdp_growth_pct,8.043909972,GDP growth (annual %)
+LBR,Liberia,2006,gni_pc_atlas_usd,270,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2006,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2006,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2006,fdi_net_inflows_pct,9.63866591,FDI net inflows (% of GDP)
+LBR,Liberia,2006,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2007,gdp_pc_current_usd,374.2113081,GDP per capita (current US$)
+LBR,Liberia,2007,gdp_pc_const2015_usd,574.6093943,GDP per capita (constant 2015 US$)
+LBR,Liberia,2007,gdp_growth_pct,9.535275363,GDP growth (annual %)
+LBR,Liberia,2007,gni_pc_atlas_usd,310,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2007,inflation_cpi_pct,11.39189668,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2007,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2007,fdi_net_inflows_pct,9.587593707,FDI net inflows (% of GDP)
+LBR,Liberia,2007,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2008,gdp_pc_current_usd,451.7138563,GDP per capita (current US$)
+LBR,Liberia,2008,gdp_pc_const2015_usd,591.1853781,GDP per capita (constant 2015 US$)
+LBR,Liberia,2008,gdp_growth_pct,7.145691128,GDP growth (annual %)
+LBR,Liberia,2008,gni_pc_atlas_usd,370,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2008,inflation_cpi_pct,17.48944864,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2008,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2008,fdi_net_inflows_pct,16.42735095,FDI net inflows (% of GDP)
+LBR,Liberia,2008,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2009,gdp_pc_current_usd,448.386367,GDP per capita (current US$)
+LBR,Liberia,2009,gdp_pc_const2015_usd,603.2562111,GDP per capita (constant 2015 US$)
+LBR,Liberia,2009,gdp_growth_pct,5.300540503,GDP growth (annual %)
+LBR,Liberia,2009,gni_pc_atlas_usd,410,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2009,inflation_cpi_pct,7.427643059,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2009,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2009,fdi_net_inflows_pct,7.228700482,FDI net inflows (% of GDP)
+LBR,Liberia,2009,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2010,gdp_pc_current_usd,492.252808,GDP per capita (current US$)
+LBR,Liberia,2010,gdp_pc_const2015_usd,621.7832951,GDP per capita (constant 2015 US$)
+LBR,Liberia,2010,gdp_growth_pct,6.09982524,GDP growth (annual %)
+LBR,Liberia,2010,gni_pc_atlas_usd,440,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2010,inflation_cpi_pct,7.289927969,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2010,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2010,fdi_net_inflows_pct,103.3373871,FDI net inflows (% of GDP)
+LBR,Liberia,2010,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2011,gdp_pc_current_usd,568.0878655,GDP per capita (current US$)
+LBR,Liberia,2011,gdp_pc_const2015_usd,646.908727,GDP per capita (constant 2015 US$)
+LBR,Liberia,2011,gdp_growth_pct,8.200768225,GDP growth (annual %)
+LBR,Liberia,2011,gni_pc_atlas_usd,500,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2011,inflation_cpi_pct,8.488167518,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2011,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2011,fdi_net_inflows_pct,86.98944676,FDI net inflows (% of GDP)
+LBR,Liberia,2011,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2012,gdp_pc_current_usd,638.3687515,GDP per capita (current US$)
+LBR,Liberia,2012,gdp_pc_const2015_usd,674.3600114,GDP per capita (constant 2015 US$)
+LBR,Liberia,2012,gdp_growth_pct,7.993814446,GDP growth (annual %)
+LBR,Liberia,2012,gni_pc_atlas_usd,540,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2012,inflation_cpi_pct,6.831787034,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2012,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2012,fdi_net_inflows_pct,82.74715778,FDI net inflows (% of GDP)
+LBR,Liberia,2012,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2013,gdp_pc_current_usd,710.7445709,GDP per capita (current US$)
+LBR,Liberia,2013,gdp_pc_const2015_usd,717.0072804,GDP per capita (constant 2015 US$)
+LBR,Liberia,2013,gdp_growth_pct,8.687287816,GDP growth (annual %)
+LBR,Liberia,2013,gni_pc_atlas_usd,610,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2013,inflation_cpi_pct,7.577306817,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2013,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2013,fdi_net_inflows_pct,62.90685386,FDI net inflows (% of GDP)
+LBR,Liberia,2013,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2014,gdp_pc_current_usd,706.7144901,GDP per capita (current US$)
+LBR,Liberia,2014,gdp_pc_const2015_usd,707.1576949,GDP per capita (constant 2015 US$)
+LBR,Liberia,2014,gdp_growth_pct,0.7013931,GDP growth (annual %)
+LBR,Liberia,2014,gni_pc_atlas_usd,620,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2014,inflation_cpi_pct,9.861112856,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2014,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2014,fdi_net_inflows_pct,15.55874064,FDI net inflows (% of GDP)
+LBR,Liberia,2014,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2015,gdp_pc_current_usd,692.5900824,GDP per capita (current US$)
+LBR,Liberia,2015,gdp_pc_const2015_usd,692.5900824,GDP per capita (constant 2015 US$)
+LBR,Liberia,2015,gdp_growth_pct,-0.01856497,GDP growth (annual %)
+LBR,Liberia,2015,gni_pc_atlas_usd,620,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2015,inflation_cpi_pct,7.748696876,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2015,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2015,fdi_net_inflows_pct,7.210237816,FDI net inflows (% of GDP)
+LBR,Liberia,2015,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2016,gdp_pc_current_usd,714.6130631,GDP per capita (current US$)
+LBR,Liberia,2016,gdp_pc_const2015_usd,668.0315132,GDP per capita (constant 2015 US$)
+LBR,Liberia,2016,gdp_growth_pct,-1.554958617,GDP growth (annual %)
+LBR,Liberia,2016,gni_pc_atlas_usd,610,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2016,inflation_cpi_pct,8.834248683,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2016,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2016,fdi_net_inflows_pct,9.171903326,FDI net inflows (% of GDP)
+LBR,Liberia,2016,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2017,gdp_pc_current_usd,699.2690957,GDP per capita (current US$)
+LBR,Liberia,2017,gdp_pc_const2015_usd,671.2608998,GDP per capita (constant 2015 US$)
+LBR,Liberia,2017,gdp_growth_pct,2.45515592,GDP growth (annual %)
+LBR,Liberia,2017,gni_pc_atlas_usd,620,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2017,inflation_cpi_pct,12.41963239,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2017,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2017,fdi_net_inflows_pct,7.309485784,FDI net inflows (% of GDP)
+LBR,Liberia,2017,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2018,gdp_pc_current_usd,692.2031271,GDP per capita (current US$)
+LBR,Liberia,2018,gdp_pc_const2015_usd,665.8754396,GDP per capita (constant 2015 US$)
+LBR,Liberia,2018,gdp_growth_pct,1.157575122,GDP growth (annual %)
+LBR,Liberia,2018,gni_pc_atlas_usd,620,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2018,inflation_cpi_pct,23.5635149,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2018,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2018,fdi_net_inflows_pct,3.772684939,FDI net inflows (% of GDP)
+LBR,Liberia,2018,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2019,gdp_pc_current_usd,658.1641808,GDP per capita (current US$)
+LBR,Liberia,2019,gdp_pc_const2015_usd,636.6993848,GDP per capita (constant 2015 US$)
+LBR,Liberia,2019,gdp_growth_pct,-2.467297635,GDP growth (annual %)
+LBR,Liberia,2019,gni_pc_atlas_usd,600,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2019,inflation_cpi_pct,26.96627602,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2019,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2019,fdi_net_inflows_pct,2.611211949,FDI net inflows (% of GDP)
+LBR,Liberia,2019,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2020,gdp_pc_current_usd,616.787867,GDP per capita (current US$)
+LBR,Liberia,2020,gdp_pc_const2015_usd,605.0254754,GDP per capita (constant 2015 US$)
+LBR,Liberia,2020,gdp_growth_pct,-2.982491276,GDP growth (annual %)
+LBR,Liberia,2020,gni_pc_atlas_usd,570,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2020,inflation_cpi_pct,16.95572415,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2020,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2020,fdi_net_inflows_pct,23.2348426,FDI net inflows (% of GDP)
+LBR,Liberia,2020,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2021,gdp_pc_current_usd,667.9661051,GDP per capita (current US$)
+LBR,Liberia,2021,gdp_pc_const2015_usd,621.9279831,GDP per capita (constant 2015 US$)
+LBR,Liberia,2021,gdp_growth_pct,4.986712835,GDP growth (annual %)
+LBR,Liberia,2021,gni_pc_atlas_usd,630,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2021,inflation_cpi_pct,7.815593859,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2021,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2021,fdi_net_inflows_pct,15.24552687,FDI net inflows (% of GDP)
+LBR,Liberia,2021,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2022,gdp_pc_current_usd,744.6171752,GDP per capita (current US$)
+LBR,Liberia,2022,gdp_pc_const2015_usd,638.0051839,GDP per capita (constant 2015 US$)
+LBR,Liberia,2022,gdp_growth_pct,4.808105173,GDP growth (annual %)
+LBR,Liberia,2022,gni_pc_atlas_usd,680,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2022,inflation_cpi_pct,7.592984866,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2022,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2022,fdi_net_inflows_pct,23.9985301,FDI net inflows (% of GDP)
+LBR,Liberia,2022,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2023,gdp_pc_current_usd,799.1944702,GDP per capita (current US$)
+LBR,Liberia,2023,gdp_pc_const2015_usd,653.3291883,GDP per capita (constant 2015 US$)
+LBR,Liberia,2023,gdp_growth_pct,4.683756888,GDP growth (annual %)
+LBR,Liberia,2023,gni_pc_atlas_usd,720,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2023,inflation_cpi_pct,10.09445357,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2023,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2023,fdi_net_inflows_pct,16.96084533,FDI net inflows (% of GDP)
+LBR,Liberia,2023,trade_pct_gdp,NA,Trade (% of GDP)
+LBR,Liberia,2024,gdp_pc_current_usd,846.2773684,GDP per capita (current US$)
+LBR,Liberia,2024,gdp_pc_const2015_usd,670.0313896,GDP per capita (constant 2015 US$)
+LBR,Liberia,2024,gdp_growth_pct,4.792914822,GDP growth (annual %)
+LBR,Liberia,2024,gni_pc_atlas_usd,760,"GNI per capita, Atlas method (current US$)"
+LBR,Liberia,2024,inflation_cpi_pct,8.214974391,"Inflation, consumer prices (annual %)"
+LBR,Liberia,2024,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+LBR,Liberia,2024,fdi_net_inflows_pct,15.72179979,FDI net inflows (% of GDP)
+LBR,Liberia,2024,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2000,gdp_pc_current_usd,547.3182989,GDP per capita (current US$)
+NGA,Nigeria,2000,gdp_pc_const2015_usd,1421.67988,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2000,gdp_growth_pct,5.015934759,GDP growth (annual %)
+NGA,Nigeria,2000,gni_pc_atlas_usd,NA,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2000,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2000,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2000,fdi_net_inflows_pct,1.64832099,FDI net inflows (% of GDP)
+NGA,Nigeria,2000,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2001,gdp_pc_current_usd,566.4282318,GDP per capita (current US$)
+NGA,Nigeria,2001,gdp_pc_const2015_usd,1465.457203,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2001,gdp_growth_pct,5.917684649,GDP growth (annual %)
+NGA,Nigeria,2001,gni_pc_atlas_usd,NA,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2001,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2001,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2001,fdi_net_inflows_pct,1.618615558,FDI net inflows (% of GDP)
+NGA,Nigeria,2001,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2002,gdp_pc_current_usd,712.1648521,GDP per capita (current US$)
+NGA,Nigeria,2002,gdp_pc_const2015_usd,1644.395189,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2002,gdp_growth_pct,15.32915574,GDP growth (annual %)
+NGA,Nigeria,2002,gni_pc_atlas_usd,NA,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2002,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2002,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2002,fdi_net_inflows_pct,1.971584135,FDI net inflows (% of GDP)
+NGA,Nigeria,2002,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2003,gdp_pc_current_usd,763.3887454,GDP per capita (current US$)
+NGA,Nigeria,2003,gdp_pc_const2015_usd,1717.214511,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2003,gdp_growth_pct,7.347194968,GDP growth (annual %)
+NGA,Nigeria,2003,gni_pc_atlas_usd,NA,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2003,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2003,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2003,fdi_net_inflows_pct,1.91462057,FDI net inflows (% of GDP)
+NGA,Nigeria,2003,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2004,gdp_pc_current_usd,962.4810419,GDP per capita (current US$)
+NGA,Nigeria,2004,gdp_pc_const2015_usd,1824.802695,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2004,gdp_growth_pct,9.250558229,GDP growth (annual %)
+NGA,Nigeria,2004,gni_pc_atlas_usd,NA,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2004,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2004,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2004,fdi_net_inflows_pct,1.380373875,FDI net inflows (% of GDP)
+NGA,Nigeria,2004,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2005,gdp_pc_current_usd,1211.377035,GDP per capita (current US$)
+NGA,Nigeria,2005,gdp_pc_const2015_usd,1889.251753,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2005,gdp_growth_pct,6.438516525,GDP growth (annual %)
+NGA,Nigeria,2005,gni_pc_atlas_usd,NA,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2005,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2005,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2005,fdi_net_inflows_pct,2.836294054,FDI net inflows (% of GDP)
+NGA,Nigeria,2005,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2006,gdp_pc_current_usd,1599.538916,GDP per capita (current US$)
+NGA,Nigeria,2006,gdp_pc_const2015_usd,1949.158568,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2006,gdp_growth_pct,6.059428032,GDP growth (annual %)
+NGA,Nigeria,2006,gni_pc_atlas_usd,NA,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2006,inflation_cpi_pct,8.22522152,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2006,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2006,fdi_net_inflows_pct,2.035752673,FDI net inflows (% of GDP)
+NGA,Nigeria,2006,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2007,gdp_pc_current_usd,1815.526975,GDP per capita (current US$)
+NGA,Nigeria,2007,gdp_pc_const2015_usd,2020.833163,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2007,gdp_growth_pct,6.591130361,GDP growth (annual %)
+NGA,Nigeria,2007,gni_pc_atlas_usd,NA,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2007,inflation_cpi_pct,5.388007969,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2007,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2007,fdi_net_inflows_pct,2.16919537,FDI net inflows (% of GDP)
+NGA,Nigeria,2007,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2008,gdp_pc_current_usd,2154.105435,GDP per capita (current US$)
+NGA,Nigeria,2008,gdp_pc_const2015_usd,2098.283392,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2008,gdp_growth_pct,6.764472778,GDP growth (annual %)
+NGA,Nigeria,2008,gni_pc_atlas_usd,1890,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2008,inflation_cpi_pct,11.58107517,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2008,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2008,fdi_net_inflows_pct,2.413739183,FDI net inflows (% of GDP)
+NGA,Nigeria,2008,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2009,gdp_pc_current_usd,1820.486339,GDP per capita (current US$)
+NGA,Nigeria,2009,gdp_pc_const2015_usd,2204.607256,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2009,gdp_growth_pct,8.036925101,GDP growth (annual %)
+NGA,Nigeria,2009,gni_pc_atlas_usd,1960,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2009,inflation_cpi_pct,12.53782773,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2009,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2009,fdi_net_inflows_pct,2.900248732,FDI net inflows (% of GDP)
+NGA,Nigeria,2009,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2010,gdp_pc_current_usd,2202.25673,GDP per capita (current US$)
+NGA,Nigeria,2010,gdp_pc_const2015_usd,2315.466765,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2010,gdp_growth_pct,8.005655916,GDP growth (annual %)
+NGA,Nigeria,2010,gni_pc_atlas_usd,2050,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2010,inflation_cpi_pct,13.74005214,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2010,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2010,fdi_net_inflows_pct,1.642073692,FDI net inflows (% of GDP)
+NGA,Nigeria,2010,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2011,gdp_pc_current_usd,2418.41317,GDP per capita (current US$)
+NGA,Nigeria,2011,gdp_pc_const2015_usd,2370.976571,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2011,gdp_growth_pct,5.307924203,GDP growth (annual %)
+NGA,Nigeria,2011,gni_pc_atlas_usd,2100,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2011,inflation_cpi_pct,10.82613719,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2011,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2011,fdi_net_inflows_pct,2.133117702,FDI net inflows (% of GDP)
+NGA,Nigeria,2011,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2012,gdp_pc_current_usd,2633.197347,GDP per capita (current US$)
+NGA,Nigeria,2012,gdp_pc_const2015_usd,2403.653879,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2012,gdp_growth_pct,4.230061175,GDP growth (annual %)
+NGA,Nigeria,2012,gni_pc_atlas_usd,2360,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2012,inflation_cpi_pct,12.2242413,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2012,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2012,fdi_net_inflows_pct,1.523782338,FDI net inflows (% of GDP)
+NGA,Nigeria,2012,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2013,gdp_pc_current_usd,2872.790834,GDP per capita (current US$)
+NGA,Nigeria,2013,gdp_pc_const2015_usd,2495.341066,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2013,gdp_growth_pct,6.671335393,GDP growth (annual %)
+NGA,Nigeria,2013,gni_pc_atlas_usd,2600,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2013,inflation_cpi_pct,8.495518383,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2013,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2013,fdi_net_inflows_pct,1.069539365,FDI net inflows (% of GDP)
+NGA,Nigeria,2013,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2014,gdp_pc_current_usd,3088.721313,GDP per capita (current US$)
+NGA,Nigeria,2014,gdp_pc_const2015_usd,2583.61557,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2014,gdp_growth_pct,6.309718655,GDP growth (annual %)
+NGA,Nigeria,2014,gni_pc_atlas_usd,2870,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2014,inflation_cpi_pct,8.04741088,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2014,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2014,fdi_net_inflows_pct,0.817478468,FDI net inflows (% of GDP)
+NGA,Nigeria,2014,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2015,gdp_pc_current_usd,2585.733607,GDP per capita (current US$)
+NGA,Nigeria,2015,gdp_pc_const2015_usd,2585.733607,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2015,gdp_growth_pct,2.652693295,GDP growth (annual %)
+NGA,Nigeria,2015,gni_pc_atlas_usd,2760,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2015,inflation_cpi_pct,9.00943498,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2015,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2015,fdi_net_inflows_pct,0.621501637,FDI net inflows (% of GDP)
+NGA,Nigeria,2015,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2016,gdp_pc_current_usd,2070.412734,GDP per capita (current US$)
+NGA,Nigeria,2016,gdp_pc_const2015_usd,2481.814904,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2016,gdp_growth_pct,-1.616868949,GDP growth (annual %)
+NGA,Nigeria,2016,gni_pc_atlas_usd,2370,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2016,inflation_cpi_pct,15.69681264,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2016,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2016,fdi_net_inflows_pct,0.853395743,FDI net inflows (% of GDP)
+NGA,Nigeria,2016,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2017,gdp_pc_current_usd,1876.340271,GDP per capita (current US$)
+NGA,Nigeria,2017,gdp_pc_const2015_usd,2441.712364,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2017,gdp_growth_pct,0.805886619,GDP growth (annual %)
+NGA,Nigeria,2017,gni_pc_atlas_usd,2020,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2017,inflation_cpi_pct,16.50226621,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2017,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2017,fdi_net_inflows_pct,0.642182922,FDI net inflows (% of GDP)
+NGA,Nigeria,2017,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2018,gdp_pc_current_usd,2057.879446,GDP per capita (current US$)
+NGA,Nigeria,2018,gdp_pc_const2015_usd,2431.778578,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2018,gdp_growth_pct,1.922757342,GDP growth (annual %)
+NGA,Nigeria,2018,gni_pc_atlas_usd,1950,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2018,inflation_cpi_pct,12.09510652,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2018,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2018,fdi_net_inflows_pct,0.183821496,FDI net inflows (% of GDP)
+NGA,Nigeria,2018,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2019,gdp_pc_current_usd,2265.155209,GDP per capita (current US$)
+NGA,Nigeria,2019,gdp_pc_const2015_usd,2431.535285,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2019,gdp_growth_pct,2.208429277,GDP growth (annual %)
+NGA,Nigeria,2019,gni_pc_atlas_usd,2050,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2019,inflation_cpi_pct,11.39642234,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2019,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2019,fdi_net_inflows_pct,0.485777628,FDI net inflows (% of GDP)
+NGA,Nigeria,2019,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2020,gdp_pc_current_usd,2019.657063,GDP per capita (current US$)
+NGA,Nigeria,2020,gdp_pc_const2015_usd,2337.575874,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2020,gdp_growth_pct,-1.794253083,GDP growth (annual %)
+NGA,Nigeria,2020,gni_pc_atlas_usd,2060,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2020,inflation_cpi_pct,13.24602343,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2020,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2020,fdi_net_inflows_pct,0.551893509,FDI net inflows (% of GDP)
+NGA,Nigeria,2020,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2021,gdp_pc_current_usd,2017.274865,GDP per capita (current US$)
+NGA,Nigeria,2021,gdp_pc_const2015_usd,2372.573145,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2021,gdp_growth_pct,3.647186541,GDP growth (annual %)
+NGA,Nigeria,2021,gni_pc_atlas_usd,2110,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2021,inflation_cpi_pct,16.95284572,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2021,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2021,fdi_net_inflows_pct,0.751578312,FDI net inflows (% of GDP)
+NGA,Nigeria,2021,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2022,gdp_pc_current_usd,2139.374785,GDP per capita (current US$)
+NGA,Nigeria,2022,gdp_pc_const2015_usd,2398.986228,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2022,gdp_growth_pct,3.251681408,GDP growth (annual %)
+NGA,Nigeria,2022,gni_pc_atlas_usd,2120,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2022,inflation_cpi_pct,18.84718778,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2022,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2022,fdi_net_inflows_pct,-0.039126749,FDI net inflows (% of GDP)
+NGA,Nigeria,2022,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2023,gdp_pc_current_usd,1596.636961,GDP per capita (current US$)
+NGA,Nigeria,2023,gdp_pc_const2015_usd,2416.361982,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2023,gdp_growth_pct,2.860214991,GDP growth (annual %)
+NGA,Nigeria,2023,gni_pc_atlas_usd,1880,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2023,inflation_cpi_pct,24.6595502,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2023,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2023,fdi_net_inflows_pct,0.514645981,FDI net inflows (% of GDP)
+NGA,Nigeria,2023,trade_pct_gdp,NA,Trade (% of GDP)
+NGA,Nigeria,2024,gdp_pc_current_usd,806.9456951,GDP per capita (current US$)
+NGA,Nigeria,2024,gdp_pc_const2015_usd,2447.638697,GDP per capita (constant 2015 US$)
+NGA,Nigeria,2024,gdp_growth_pct,3.426439471,GDP growth (annual %)
+NGA,Nigeria,2024,gni_pc_atlas_usd,1250,"GNI per capita, Atlas method (current US$)"
+NGA,Nigeria,2024,inflation_cpi_pct,33.24209665,"Inflation, consumer prices (annual %)"
+NGA,Nigeria,2024,gcf_pct_gdp,NA,Gross capital formation (% of GDP)
+NGA,Nigeria,2024,fdi_net_inflows_pct,0.575368774,FDI net inflows (% of GDP)
+NGA,Nigeria,2024,trade_pct_gdp,NA,Trade (% of GDP)
+SEN,Senegal,2000,gdp_pc_current_usd,603.2331625,GDP per capita (current US$)
+SEN,Senegal,2000,gdp_pc_const2015_usd,1048.374741,GDP per capita (constant 2015 US$)
+SEN,Senegal,2000,gdp_growth_pct,3.887210958,GDP growth (annual %)
+SEN,Senegal,2000,gni_pc_atlas_usd,650,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2000,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2000,gcf_pct_gdp,19.22532556,Gross capital formation (% of GDP)
+SEN,Senegal,2000,fdi_net_inflows_pct,1.357744524,FDI net inflows (% of GDP)
+SEN,Senegal,2000,trade_pct_gdp,48.68008972,Trade (% of GDP)
+SEN,Senegal,2001,gdp_pc_current_usd,637.2135306,GDP per capita (current US$)
+SEN,Senegal,2001,gdp_pc_const2015_usd,1067.368866,GDP per capita (constant 2015 US$)
+SEN,Senegal,2001,gdp_growth_pct,4.310851466,GDP growth (annual %)
+SEN,Senegal,2001,gni_pc_atlas_usd,640,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2001,inflation_cpi_pct,2.974500839,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2001,gcf_pct_gdp,18.95422172,Gross capital formation (% of GDP)
+SEN,Senegal,2001,fdi_net_inflows_pct,0.692757273,FDI net inflows (% of GDP)
+SEN,Senegal,2001,trade_pct_gdp,49.72057806,Trade (% of GDP)
+SEN,Senegal,2002,gdp_pc_current_usd,669.4304473,GDP per capita (current US$)
+SEN,Senegal,2002,gdp_pc_const2015_usd,1042.255099,GDP per capita (constant 2015 US$)
+SEN,Senegal,2002,gdp_growth_pct,0.068696575,GDP growth (annual %)
+SEN,Senegal,2002,gni_pc_atlas_usd,610,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2002,inflation_cpi_pct,2.337301875,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2002,gcf_pct_gdp,20.43210366,Gross capital formation (% of GDP)
+SEN,Senegal,2002,fdi_net_inflows_pct,1.180244408,FDI net inflows (% of GDP)
+SEN,Senegal,2002,trade_pct_gdp,53.14429946,Trade (% of GDP)
+SEN,Senegal,2003,gdp_pc_current_usd,817.8880342,GDP per capita (current US$)
+SEN,Senegal,2003,gdp_pc_const2015_usd,1074.385785,GDP per capita (constant 2015 US$)
+SEN,Senegal,2003,gdp_growth_pct,5.593950945,GDP growth (annual %)
+SEN,Senegal,2003,gni_pc_atlas_usd,710,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2003,inflation_cpi_pct,-0.051997024,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2003,gcf_pct_gdp,17.41022765,Gross capital formation (% of GDP)
+SEN,Senegal,2003,fdi_net_inflows_pct,0.986458285,FDI net inflows (% of GDP)
+SEN,Senegal,2003,trade_pct_gdp,50.82121989,Trade (% of GDP)
+SEN,Senegal,2004,gdp_pc_current_usd,918.1020795,GDP per capita (current US$)
+SEN,Senegal,2004,gdp_pc_const2015_usd,1098.200645,GDP per capita (constant 2015 US$)
+SEN,Senegal,2004,gdp_growth_pct,4.643293937,GDP growth (annual %)
+SEN,Senegal,2004,gni_pc_atlas_usd,850,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2004,inflation_cpi_pct,0.514781781,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2004,gcf_pct_gdp,17.49768951,Gross capital formation (% of GDP)
+SEN,Senegal,2004,fdi_net_inflows_pct,1.365346632,FDI net inflows (% of GDP)
+SEN,Senegal,2004,trade_pct_gdp,53.65920313,Trade (% of GDP)
+SEN,Senegal,2005,gdp_pc_current_usd,979.8461015,GDP per capita (current US$)
+SEN,Senegal,2005,gdp_pc_const2015_usd,1119.050531,GDP per capita (constant 2015 US$)
+SEN,Senegal,2005,gdp_growth_pct,4.310238526,GDP growth (annual %)
+SEN,Senegal,2005,gni_pc_atlas_usd,980,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2005,inflation_cpi_pct,1.711333259,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2005,gcf_pct_gdp,18.29401751,Gross capital formation (% of GDP)
+SEN,Senegal,2005,fdi_net_inflows_pct,1.525512948,FDI net inflows (% of GDP)
+SEN,Senegal,2005,trade_pct_gdp,54.90324357,Trade (% of GDP)
+SEN,Senegal,2006,gdp_pc_current_usd,1017.201967,GDP per capita (current US$)
+SEN,Senegal,2006,gdp_pc_const2015_usd,1118.783043,GDP per capita (constant 2015 US$)
+SEN,Senegal,2006,gdp_growth_pct,2.330770983,GDP growth (annual %)
+SEN,Senegal,2006,gni_pc_atlas_usd,1020,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2006,inflation_cpi_pct,2.112285839,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2006,gcf_pct_gdp,21.21406104,Gross capital formation (% of GDP)
+SEN,Senegal,2006,fdi_net_inflows_pct,2.477708377,FDI net inflows (% of GDP)
+SEN,Senegal,2006,trade_pct_gdp,54.13623781,Trade (% of GDP)
+SEN,Senegal,2007,gdp_pc_current_usd,1188.938778,GDP per capita (current US$)
+SEN,Senegal,2007,gdp_pc_const2015_usd,1123.998622,GDP per capita (constant 2015 US$)
+SEN,Senegal,2007,gdp_growth_pct,2.827119201,GDP growth (annual %)
+SEN,Senegal,2007,gni_pc_atlas_usd,1090,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2007,inflation_cpi_pct,5.853304285,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2007,gcf_pct_gdp,21.0584702,Gross capital formation (% of GDP)
+SEN,Senegal,2007,fdi_net_inflows_pct,2.511456675,FDI net inflows (% of GDP)
+SEN,Senegal,2007,trade_pct_gdp,59.27130435,Trade (% of GDP)
+SEN,Senegal,2008,gdp_pc_current_usd,1398.79218,GDP per capita (current US$)
+SEN,Senegal,2008,gdp_pc_const2015_usd,1138.668839,GDP per capita (constant 2015 US$)
+SEN,Senegal,2008,gdp_growth_pct,3.703169064,GDP growth (annual %)
+SEN,Senegal,2008,gni_pc_atlas_usd,1240,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2008,inflation_cpi_pct,7.347202366,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2008,gcf_pct_gdp,22.58270964,Gross capital formation (% of GDP)
+SEN,Senegal,2008,fdi_net_inflows_pct,2.704047398,FDI net inflows (% of GDP)
+SEN,Senegal,2008,trade_pct_gdp,62.76176982,Trade (% of GDP)
+SEN,Senegal,2009,gdp_pc_current_usd,1308.694043,GDP per capita (current US$)
+SEN,Senegal,2009,gdp_pc_const2015_usd,1142.653172,GDP per capita (constant 2015 US$)
+SEN,Senegal,2009,gdp_growth_pct,2.752104485,GDP growth (annual %)
+SEN,Senegal,2009,gni_pc_atlas_usd,1330,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2009,inflation_cpi_pct,-2.248021479,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2009,gcf_pct_gdp,19.89218173,Gross capital formation (% of GDP)
+SEN,Senegal,2009,fdi_net_inflows_pct,2.052995358,FDI net inflows (% of GDP)
+SEN,Senegal,2009,trade_pct_gdp,52.30729088,Trade (% of GDP)
+SEN,Senegal,2010,gdp_pc_current_usd,1275.883575,GDP per capita (current US$)
+SEN,Senegal,2010,gdp_pc_const2015_usd,1153.534311,GDP per capita (constant 2015 US$)
+SEN,Senegal,2010,gdp_growth_pct,3.390889253,GDP growth (annual %)
+SEN,Senegal,2010,gni_pc_atlas_usd,1340,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2010,inflation_cpi_pct,1.228681197,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2010,gcf_pct_gdp,18.51659371,Gross capital formation (% of GDP)
+SEN,Senegal,2010,fdi_net_inflows_pct,1.687783367,FDI net inflows (% of GDP)
+SEN,Senegal,2010,trade_pct_gdp,52.4578552,Trade (% of GDP)
+SEN,Senegal,2011,gdp_pc_current_usd,1374.675919,GDP per capita (current US$)
+SEN,Senegal,2011,gdp_pc_const2015_usd,1139.744479,GDP per capita (constant 2015 US$)
+SEN,Senegal,2011,gdp_growth_pct,1.33409108,GDP growth (annual %)
+SEN,Senegal,2011,gni_pc_atlas_usd,1310,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2011,inflation_cpi_pct,3.403228298,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2011,gcf_pct_gdp,21.01603684,Gross capital formation (% of GDP)
+SEN,Senegal,2011,fdi_net_inflows_pct,1.901069964,FDI net inflows (% of GDP)
+SEN,Senegal,2011,trade_pct_gdp,57.5768786,Trade (% of GDP)
+SEN,Senegal,2012,gdp_pc_current_usd,1326.837988,GDP per capita (current US$)
+SEN,Senegal,2012,gdp_pc_const2015_usd,1154.05678,GDP per capita (constant 2015 US$)
+SEN,Senegal,2012,gdp_growth_pct,4.002995551,GDP growth (annual %)
+SEN,Senegal,2012,gni_pc_atlas_usd,1320,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2012,inflation_cpi_pct,1.418228712,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2012,gcf_pct_gdp,20.70243272,Gross capital formation (% of GDP)
+SEN,Senegal,2012,fdi_net_inflows_pct,1.563680196,FDI net inflows (% of GDP)
+SEN,Senegal,2012,trade_pct_gdp,61.975304,Trade (% of GDP)
+SEN,Senegal,2013,gdp_pc_current_usd,1379.831966,GDP per capita (current US$)
+SEN,Senegal,2013,gdp_pc_const2015_usd,1147.385922,GDP per capita (constant 2015 US$)
+SEN,Senegal,2013,gdp_growth_pct,2.412385276,GDP growth (annual %)
+SEN,Senegal,2013,gni_pc_atlas_usd,1350,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2013,inflation_cpi_pct,0.710245487,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2013,gcf_pct_gdp,22.16891755,Gross capital formation (% of GDP)
+SEN,Senegal,2013,fdi_net_inflows_pct,1.64581763,FDI net inflows (% of GDP)
+SEN,Senegal,2013,trade_pct_gdp,60.62676636,Trade (% of GDP)
+SEN,Senegal,2014,gdp_pc_current_usd,1398.891376,GDP per capita (current US$)
+SEN,Senegal,2014,gdp_pc_const2015_usd,1180.798711,GDP per capita (constant 2015 US$)
+SEN,Senegal,2014,gdp_growth_pct,6.224074438,GDP growth (annual %)
+SEN,Senegal,2014,gni_pc_atlas_usd,1370,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2014,inflation_cpi_pct,-1.090255074,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2014,gcf_pct_gdp,23.47965057,Gross capital formation (% of GDP)
+SEN,Senegal,2014,fdi_net_inflows_pct,2.036131212,FDI net inflows (% of GDP)
+SEN,Senegal,2014,trade_pct_gdp,58.44252898,Trade (% of GDP)
+SEN,Senegal,2015,gdp_pc_current_usd,1218.006136,GDP per capita (current US$)
+SEN,Senegal,2015,gdp_pc_const2015_usd,1218.006136,GDP per capita (constant 2015 US$)
+SEN,Senegal,2015,gdp_growth_pct,6.367043651,GDP growth (annual %)
+SEN,Senegal,2015,gni_pc_atlas_usd,1310,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2015,inflation_cpi_pct,0.135211934,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2015,gcf_pct_gdp,23.01733334,Gross capital formation (% of GDP)
+SEN,Senegal,2015,fdi_net_inflows_pct,2.301949347,FDI net inflows (% of GDP)
+SEN,Senegal,2015,trade_pct_gdp,58.11033767,Trade (% of GDP)
+SEN,Senegal,2016,gdp_pc_current_usd,1266.439572,GDP per capita (current US$)
+SEN,Senegal,2016,gdp_pc_const2015_usd,1257.409069,GDP per capita (constant 2015 US$)
+SEN,Senegal,2016,gdp_growth_pct,6.356068572,GDP growth (annual %)
+SEN,Senegal,2016,gni_pc_atlas_usd,1270,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2016,inflation_cpi_pct,0.837284943,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2016,gcf_pct_gdp,23.92812412,Gross capital formation (% of GDP)
+SEN,Senegal,2016,fdi_net_inflows_pct,2.481103207,FDI net inflows (% of GDP)
+SEN,Senegal,2016,trade_pct_gdp,54.10816921,Trade (% of GDP)
+SEN,Senegal,2017,gdp_pc_current_usd,1356.805184,GDP per capita (current US$)
+SEN,Senegal,2017,gdp_pc_const2015_usd,1312.109328,GDP per capita (constant 2015 US$)
+SEN,Senegal,2017,gdp_growth_pct,7.407486186,GDP growth (annual %)
+SEN,Senegal,2017,gni_pc_atlas_usd,1270,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2017,inflation_cpi_pct,1.318153148,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2017,gcf_pct_gdp,25.82566178,Gross capital formation (% of GDP)
+SEN,Senegal,2017,fdi_net_inflows_pct,2.801853806,FDI net inflows (% of GDP)
+SEN,Senegal,2017,trade_pct_gdp,57.70527985,Trade (% of GDP)
+SEN,Senegal,2018,gdp_pc_current_usd,1452.556126,GDP per capita (current US$)
+SEN,Senegal,2018,gdp_pc_const2015_usd,1355.096109,GDP per capita (constant 2015 US$)
+SEN,Senegal,2018,gdp_growth_pct,6.209241034,GDP growth (annual %)
+SEN,Senegal,2018,gni_pc_atlas_usd,1390,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2018,inflation_cpi_pct,0.460985642,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2018,gcf_pct_gdp,28.32181083,Gross capital formation (% of GDP)
+SEN,Senegal,2018,fdi_net_inflows_pct,3.66765809,FDI net inflows (% of GDP)
+SEN,Senegal,2018,trade_pct_gdp,61.78983948,Trade (% of GDP)
+SEN,Senegal,2019,gdp_pc_current_usd,1431.181289,GDP per capita (current US$)
+SEN,Senegal,2019,gdp_pc_const2015_usd,1379.608752,GDP per capita (constant 2015 US$)
+SEN,Senegal,2019,gdp_growth_pct,4.613628097,GDP growth (annual %)
+SEN,Senegal,2019,gni_pc_atlas_usd,1430,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2019,inflation_cpi_pct,1.760111512,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2019,gcf_pct_gdp,29.65635622,Gross capital formation (% of GDP)
+SEN,Senegal,2019,fdi_net_inflows_pct,4.552476186,FDI net inflows (% of GDP)
+SEN,Senegal,2019,trade_pct_gdp,64.23625061,Trade (% of GDP)
+SEN,Senegal,2020,gdp_pc_current_usd,1461.087204,GDP per capita (current US$)
+SEN,Senegal,2020,gdp_pc_const2015_usd,1361.791437,GDP per capita (constant 2015 US$)
+SEN,Senegal,2020,gdp_growth_pct,1.342073773,GDP growth (annual %)
+SEN,Senegal,2020,gni_pc_atlas_usd,1440,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2020,inflation_cpi_pct,2.543146857,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2020,gcf_pct_gdp,30.45317726,Gross capital formation (% of GDP)
+SEN,Senegal,2020,fdi_net_inflows_pct,7.523957081,FDI net inflows (% of GDP)
+SEN,Senegal,2020,trade_pct_gdp,60.04687161,Trade (% of GDP)
+SEN,Senegal,2021,gdp_pc_current_usd,1598.10677,GDP per capita (current US$)
+SEN,Senegal,2021,gdp_pc_const2015_usd,1414.539511,GDP per capita (constant 2015 US$)
+SEN,Senegal,2021,gdp_growth_pct,6.5440011,GDP growth (annual %)
+SEN,Senegal,2021,gni_pc_atlas_usd,1530,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2021,inflation_cpi_pct,2.180322781,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2021,gcf_pct_gdp,33.96870177,Gross capital formation (% of GDP)
+SEN,Senegal,2021,fdi_net_inflows_pct,9.404264051,FDI net inflows (% of GDP)
+SEN,Senegal,2021,trade_pct_gdp,69.37599399,Trade (% of GDP)
+SEN,Senegal,2022,gdp_pc_current_usd,1574.028106,GDP per capita (current US$)
+SEN,Senegal,2022,gdp_pc_const2015_usd,1433.199188,GDP per capita (constant 2015 US$)
+SEN,Senegal,2022,gdp_growth_pct,3.850431937,GDP growth (annual %)
+SEN,Senegal,2022,gni_pc_atlas_usd,1600,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2022,inflation_cpi_pct,9.696818991,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2022,gcf_pct_gdp,34.707082,Gross capital formation (% of GDP)
+SEN,Senegal,2022,fdi_net_inflows_pct,10.5411242,FDI net inflows (% of GDP)
+SEN,Senegal,2022,trade_pct_gdp,79.59982165,Trade (% of GDP)
+SEN,Senegal,2023,gdp_pc_current_usd,1698.033873,GDP per capita (current US$)
+SEN,Senegal,2023,gdp_pc_const2015_usd,1458.966423,GDP per capita (constant 2015 US$)
+SEN,Senegal,2023,gdp_growth_pct,4.257430833,GDP growth (annual %)
+SEN,Senegal,2023,gni_pc_atlas_usd,1630,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2023,inflation_cpi_pct,5.939477988,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2023,gcf_pct_gdp,35.38516626,Gross capital formation (% of GDP)
+SEN,Senegal,2023,fdi_net_inflows_pct,15.60446,FDI net inflows (% of GDP)
+SEN,Senegal,2023,trade_pct_gdp,71.39428703,Trade (% of GDP)
+SEN,Senegal,2024,gdp_pc_current_usd,1743.988884,GDP per capita (current US$)
+SEN,Senegal,2024,gdp_pc_const2015_usd,1523.745209,GDP per capita (constant 2015 US$)
+SEN,Senegal,2024,gdp_growth_pct,6.892007403,GDP growth (annual %)
+SEN,Senegal,2024,gni_pc_atlas_usd,1680,"GNI per capita, Atlas method (current US$)"
+SEN,Senegal,2024,inflation_cpi_pct,0.804503299,"Inflation, consumer prices (annual %)"
+SEN,Senegal,2024,gcf_pct_gdp,32.06751956,Gross capital formation (% of GDP)
+SEN,Senegal,2024,fdi_net_inflows_pct,6.249149226,FDI net inflows (% of GDP)
+SEN,Senegal,2024,trade_pct_gdp,71.19888861,Trade (% of GDP)
+SLE,Sierra Leone,2000,gdp_pc_current_usd,143.7437432,GDP per capita (current US$)
+SLE,Sierra Leone,2000,gdp_pc_const2015_usd,727.2409134,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2000,gdp_growth_pct,6.652729835,GDP growth (annual %)
+SLE,Sierra Leone,2000,gni_pc_atlas_usd,150,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2000,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2000,gcf_pct_gdp,1.096810372,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2000,fdi_net_inflows_pct,6.133493496,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2000,trade_pct_gdp,57.5299629,Trade (% of GDP)
+SLE,Sierra Leone,2001,gdp_pc_current_usd,358.3157161,GDP per capita (current US$)
+SLE,Sierra Leone,2001,gdp_pc_const2015_usd,642.0366449,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2001,gdp_growth_pct,-6.345455604,GDP growth (annual %)
+SLE,Sierra Leone,2001,gni_pc_atlas_usd,170,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2001,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2001,gcf_pct_gdp,10.34798377,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2001,fdi_net_inflows_pct,0.58494765,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2001,trade_pct_gdp,35.93816034,Trade (% of GDP)
+SLE,Sierra Leone,2002,gdp_pc_current_usd,388.9951112,GDP per capita (current US$)
+SLE,Sierra Leone,2002,gdp_pc_const2015_usd,766.7886924,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2002,gdp_growth_pct,26.52413503,GDP growth (annual %)
+SLE,Sierra Leone,2002,gni_pc_atlas_usd,260,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2002,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2002,gcf_pct_gdp,10.97859262,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2002,fdi_net_inflows_pct,0.53847685,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2002,trade_pct_gdp,38.91691205,Trade (% of GDP)
+SLE,Sierra Leone,2003,gdp_pc_current_usd,413.8176073,GDP per capita (current US$)
+SLE,Sierra Leone,2003,gdp_pc_const2015_usd,806.0664888,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2003,gdp_growth_pct,9.483631431,GDP growth (annual %)
+SLE,Sierra Leone,2003,gni_pc_atlas_usd,420,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2003,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2003,gcf_pct_gdp,10.87812538,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2003,fdi_net_inflows_pct,0.402080515,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2003,trade_pct_gdp,46.4464373,Trade (% of GDP)
+SLE,Sierra Leone,2004,gdp_pc_current_usd,417.7499833,GDP per capita (current US$)
+SLE,Sierra Leone,2004,gdp_pc_const2015_usd,829.7597692,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2004,gdp_growth_pct,6.478845949,GDP growth (annual %)
+SLE,Sierra Leone,2004,gni_pc_atlas_usd,410,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2004,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2004,gcf_pct_gdp,9.992712649,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2004,fdi_net_inflows_pct,2.733291412,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2004,trade_pct_gdp,46.1719994,Trade (% of GDP)
+SLE,Sierra Leone,2005,gdp_pc_current_usd,462.6333244,GDP per capita (current US$)
+SLE,Sierra Leone,2005,gdp_pc_const2015_usd,842.9060319,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2005,gdp_growth_pct,4.353499894,GDP growth (annual %)
+SLE,Sierra Leone,2005,gni_pc_atlas_usd,440,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2005,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2005,gcf_pct_gdp,10.99193589,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2005,fdi_net_inflows_pct,3.564709456,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2005,trade_pct_gdp,47.54798345,Trade (% of GDP)
+SLE,Sierra Leone,2006,gdp_pc_current_usd,580.2679697,GDP per capita (current US$)
+SLE,Sierra Leone,2006,gdp_pc_const2015_usd,859.8242607,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2006,gdp_growth_pct,4.2831105,GDP growth (annual %)
+SLE,Sierra Leone,2006,gni_pc_atlas_usd,440,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2006,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2006,gcf_pct_gdp,10.34806552,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2006,fdi_net_inflows_pct,1.803756154,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2006,trade_pct_gdp,22.08886647,Trade (% of GDP)
+SLE,Sierra Leone,2007,gdp_pc_current_usd,631.8899263,GDP per capita (current US$)
+SLE,Sierra Leone,2007,gdp_pc_const2015_usd,872.6883623,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2007,gdp_growth_pct,3.749758048,GDP growth (annual %)
+SLE,Sierra Leone,2007,gni_pc_atlas_usd,480,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2007,inflation_cpi_pct,NA,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2007,gcf_pct_gdp,9.958864936,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2007,fdi_net_inflows_pct,2.627891144,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2007,trade_pct_gdp,21.80679927,Trade (% of GDP)
+SLE,Sierra Leone,2008,gdp_pc_current_usd,705.3590141,GDP per capita (current US$)
+SLE,Sierra Leone,2008,gdp_pc_const2015_usd,882.5414782,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2008,gdp_growth_pct,3.686059699,GDP growth (annual %)
+SLE,Sierra Leone,2008,gni_pc_atlas_usd,580,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2008,inflation_cpi_pct,8.211124323,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2008,gcf_pct_gdp,10.17429524,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2008,fdi_net_inflows_pct,1.276969819,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2008,trade_pct_gdp,21.25661556,Trade (% of GDP)
+SLE,Sierra Leone,2009,gdp_pc_current_usd,652.8458068,GDP per capita (current US$)
+SLE,Sierra Leone,2009,gdp_pc_const2015_usd,872.2395935,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2009,gdp_growth_pct,1.53080324,GDP growth (annual %)
+SLE,Sierra Leone,2009,gni_pc_atlas_usd,650,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2009,inflation_cpi_pct,7.469018985,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2009,gcf_pct_gdp,11.0063444,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2009,fdi_net_inflows_pct,2.793294784,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2009,trade_pct_gdp,23.0753396,Trade (% of GDP)
+SLE,Sierra Leone,2010,gdp_pc_current_usd,685.0396735,GDP per capita (current US$)
+SLE,Sierra Leone,2010,gdp_pc_const2015_usd,902.7698914,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2010,gdp_growth_pct,6.355665958,GDP growth (annual %)
+SLE,Sierra Leone,2010,gni_pc_atlas_usd,690,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2010,inflation_cpi_pct,7.185662757,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2010,gcf_pct_gdp,34.23296978,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2010,fdi_net_inflows_pct,5.592659183,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2010,trade_pct_gdp,27.95412592,Trade (% of GDP)
+SLE,Sierra Leone,2011,gdp_pc_current_usd,761.1463656,GDP per capita (current US$)
+SLE,Sierra Leone,2011,gdp_pc_const2015_usd,950.7607631,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2011,gdp_growth_pct,8.100655187,GDP growth (annual %)
+SLE,Sierra Leone,2011,gni_pc_atlas_usd,710,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2011,inflation_cpi_pct,6.79138292,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2011,gcf_pct_gdp,46.33157096,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2011,fdi_net_inflows_pct,19.55058751,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2011,trade_pct_gdp,43.78079693,Trade (% of GDP)
+SLE,Sierra Leone,2012,gdp_pc_current_usd,937.5044282,GDP per capita (current US$)
+SLE,Sierra Leone,2012,gdp_pc_const2015_usd,1025.04366,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2012,gdp_growth_pct,10.57833166,GDP growth (annual %)
+SLE,Sierra Leone,2012,gni_pc_atlas_usd,830,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2012,inflation_cpi_pct,6.587762394,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2012,gcf_pct_gdp,29.20174272,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2012,fdi_net_inflows_pct,11.76305167,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2012,trade_pct_gdp,53.38134471,Trade (% of GDP)
+SLE,Sierra Leone,2013,gdp_pc_current_usd,1117.471831,GDP per capita (current US$)
+SLE,Sierra Leone,2013,gdp_pc_const2015_usd,1146.819735,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2013,gdp_growth_pct,14.66332381,GDP growth (annual %)
+SLE,Sierra Leone,2013,gni_pc_atlas_usd,970,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2013,inflation_cpi_pct,5.52412878,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2013,gcf_pct_gdp,17.46268101,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2013,fdi_net_inflows_pct,5.726751438,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2013,trade_pct_gdp,53.36276461,Trade (% of GDP)
+SLE,Sierra Leone,2014,gdp_pc_current_usd,1117.758647,GDP per capita (current US$)
+SLE,Sierra Leone,2014,gdp_pc_const2015_usd,1032.237894,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2014,gdp_growth_pct,-7.815015125,GDP growth (annual %)
+SLE,Sierra Leone,2014,gni_pc_atlas_usd,970,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2014,inflation_cpi_pct,4.639311714,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2014,gcf_pct_gdp,15.76382629,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2014,fdi_net_inflows_pct,4.880078785,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2014,trade_pct_gdp,51.11877728,Trade (% of GDP)
+SLE,Sierra Leone,2015,gdp_pc_current_usd,964.5759809,GDP per capita (current US$)
+SLE,Sierra Leone,2015,gdp_pc_const2015_usd,964.5759809,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2015,gdp_growth_pct,-4.363332621,GDP growth (annual %)
+SLE,Sierra Leone,2015,gni_pc_atlas_usd,950,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2015,inflation_cpi_pct,6.689435625,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2015,gcf_pct_gdp,17.82841635,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2015,fdi_net_inflows_pct,3.718660924,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2015,trade_pct_gdp,36.48239582,Trade (% of GDP)
+SLE,Sierra Leone,2016,gdp_pc_current_usd,844.4164112,GDP per capita (current US$)
+SLE,Sierra Leone,2016,gdp_pc_const2015_usd,1002.778623,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2016,gdp_growth_pct,6.437436528,GDP growth (annual %)
+SLE,Sierra Leone,2016,gni_pc_atlas_usd,930,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2016,inflation_cpi_pct,10.88606094,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2016,gcf_pct_gdp,17.42494729,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2016,fdi_net_inflows_pct,2.276636644,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2016,trade_pct_gdp,43.0672127,Trade (% of GDP)
+SLE,Sierra Leone,2017,gdp_pc_current_usd,779.1860078,GDP per capita (current US$)
+SLE,Sierra Leone,2017,gdp_pc_const2015_usd,1010.546941,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2017,gdp_growth_pct,3.207860877,GDP growth (annual %)
+SLE,Sierra Leone,2017,gni_pc_atlas_usd,840,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2017,inflation_cpi_pct,18.2215094,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2017,gcf_pct_gdp,18.89791923,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2017,fdi_net_inflows_pct,7.195402496,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2017,trade_pct_gdp,41.52137823,Trade (% of GDP)
+SLE,Sierra Leone,2018,gdp_pc_current_usd,845.9145405,GDP per capita (current US$)
+SLE,Sierra Leone,2018,gdp_pc_const2015_usd,1015.66783,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2018,gdp_growth_pct,2.893856412,GDP growth (annual %)
+SLE,Sierra Leone,2018,gni_pc_atlas_usd,830,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2018,inflation_cpi_pct,16.02954477,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2018,gcf_pct_gdp,15.38624236,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2018,fdi_net_inflows_pct,2.905028802,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2018,trade_pct_gdp,37.37746031,Trade (% of GDP)
+SLE,Sierra Leone,2019,gdp_pc_current_usd,844.0495552,GDP per capita (current US$)
+SLE,Sierra Leone,2019,gdp_pc_const2015_usd,1046.967781,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2019,gdp_growth_pct,5.502709374,GDP growth (annual %)
+SLE,Sierra Leone,2019,gni_pc_atlas_usd,850,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2019,inflation_cpi_pct,14.80499909,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2019,gcf_pct_gdp,17.39004448,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2019,fdi_net_inflows_pct,1.866055302,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2019,trade_pct_gdp,37.54695411,Trade (% of GDP)
+SLE,Sierra Leone,2020,gdp_pc_current_usd,845.9829143,GDP per capita (current US$)
+SLE,Sierra Leone,2020,gdp_pc_const2015_usd,1010.252946,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2020,gdp_growth_pct,-1.253349032,GDP growth (annual %)
+SLE,Sierra Leone,2020,gni_pc_atlas_usd,840,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2020,inflation_cpi_pct,13.44687111,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2020,gcf_pct_gdp,15.50163594,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2020,fdi_net_inflows_pct,0.761888955,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2020,trade_pct_gdp,30.58757663,Trade (% of GDP)
+SLE,Sierra Leone,2021,gdp_pc_current_usd,886.1929391,GDP per capita (current US$)
+SLE,Sierra Leone,2021,gdp_pc_const2015_usd,1045.766162,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2021,gdp_growth_pct,5.896852705,GDP growth (annual %)
+SLE,Sierra Leone,2021,gni_pc_atlas_usd,890,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2021,inflation_cpi_pct,11.87395888,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2021,gcf_pct_gdp,16.26541872,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2021,fdi_net_inflows_pct,2.983252326,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2021,trade_pct_gdp,42.10563627,Trade (% of GDP)
+SLE,Sierra Leone,2022,gdp_pc_current_usd,860.7745909,GDP per capita (current US$)
+SLE,Sierra Leone,2022,gdp_pc_const2015_usd,1077.088845,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2022,gdp_growth_pct,5.313554614,GDP growth (annual %)
+SLE,Sierra Leone,2022,gni_pc_atlas_usd,920,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2022,inflation_cpi_pct,27.20828838,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2022,gcf_pct_gdp,18.66096721,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2022,fdi_net_inflows_pct,2.035240495,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2022,trade_pct_gdp,45.03309182,Trade (% of GDP)
+SLE,Sierra Leone,2023,gdp_pc_current_usd,757.8486806,GDP per capita (current US$)
+SLE,Sierra Leone,2023,gdp_pc_const2015_usd,1113.868375,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2023,gdp_growth_pct,5.710021898,GDP growth (annual %)
+SLE,Sierra Leone,2023,gni_pc_atlas_usd,870,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2023,inflation_cpi_pct,47.64287333,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2023,gcf_pct_gdp,19.81421492,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2023,fdi_net_inflows_pct,3.758702025,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2023,trade_pct_gdp,55.86968816,Trade (% of GDP)
+SLE,Sierra Leone,2024,gdp_pc_current_usd,873.3885752,GDP per capita (current US$)
+SLE,Sierra Leone,2024,gdp_pc_const2015_usd,1134.092534,GDP per capita (constant 2015 US$)
+SLE,Sierra Leone,2024,gdp_growth_pct,4.000000026,GDP growth (annual %)
+SLE,Sierra Leone,2024,gni_pc_atlas_usd,840,"GNI per capita, Atlas method (current US$)"
+SLE,Sierra Leone,2024,inflation_cpi_pct,28.63375,"Inflation, consumer prices (annual %)"
+SLE,Sierra Leone,2024,gcf_pct_gdp,29.49561203,Gross capital formation (% of GDP)
+SLE,Sierra Leone,2024,fdi_net_inflows_pct,3.630176062,FDI net inflows (% of GDP)
+SLE,Sierra Leone,2024,trade_pct_gdp,64.4777969,Trade (% of GDP)
+TGO,Togo,2000,gdp_pc_current_usd,409.8898028,GDP per capita (current US$)
+TGO,Togo,2000,gdp_pc_const2015_usd,679.5333677,GDP per capita (constant 2015 US$)
+TGO,Togo,2000,gdp_growth_pct,-0.78347961,GDP growth (annual %)
+TGO,Togo,2000,gni_pc_atlas_usd,420,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2000,inflation_cpi_pct,1.862605955,"Inflation, consumer prices (annual %)"
+TGO,Togo,2000,gcf_pct_gdp,13.24395313,Gross capital formation (% of GDP)
+TGO,Togo,2000,fdi_net_inflows_pct,2.50698257,FDI net inflows (% of GDP)
+TGO,Togo,2000,trade_pct_gdp,48.80800411,Trade (% of GDP)
+TGO,Togo,2001,gdp_pc_current_usd,396.6926545,GDP per capita (current US$)
+TGO,Togo,2001,gdp_pc_const2015_usd,667.2982818,GDP per capita (constant 2015 US$)
+TGO,Togo,2001,gdp_growth_pct,0.823438752,GDP growth (annual %)
+TGO,Togo,2001,gni_pc_atlas_usd,400,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2001,inflation_cpi_pct,3.919591337,"Inflation, consumer prices (annual %)"
+TGO,Togo,2001,gcf_pct_gdp,13.90825664,Gross capital formation (% of GDP)
+TGO,Togo,2001,fdi_net_inflows_pct,3.468722086,FDI net inflows (% of GDP)
+TGO,Togo,2001,trade_pct_gdp,51.39415207,Trade (% of GDP)
+TGO,Togo,2002,gdp_pc_current_usd,445.2386915,GDP per capita (current US$)
+TGO,Togo,2002,gdp_pc_const2015_usd,675.4407444,GDP per capita (constant 2015 US$)
+TGO,Togo,2002,gdp_growth_pct,3.826622577,GDP growth (annual %)
+TGO,Togo,2002,gni_pc_atlas_usd,410,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2002,inflation_cpi_pct,3.059818575,"Inflation, consumer prices (annual %)"
+TGO,Togo,2002,gcf_pct_gdp,14.30605067,Gross capital formation (% of GDP)
+TGO,Togo,2002,fdi_net_inflows_pct,2.398403891,FDI net inflows (% of GDP)
+TGO,Togo,2002,trade_pct_gdp,51.60956528,Trade (% of GDP)
+TGO,Togo,2003,gdp_pc_current_usd,538.1653778,GDP per capita (current US$)
+TGO,Togo,2003,gdp_pc_const2015_usd,702.7992002,GDP per capita (constant 2015 US$)
+TGO,Togo,2003,gdp_growth_pct,6.720171423,GDP growth (annual %)
+TGO,Togo,2003,gni_pc_atlas_usd,470,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2003,inflation_cpi_pct,-0.930000884,"Inflation, consumer prices (annual %)"
+TGO,Togo,2003,gcf_pct_gdp,14.46388789,Gross capital formation (% of GDP)
+TGO,Togo,2003,fdi_net_inflows_pct,1.531922915,FDI net inflows (% of GDP)
+TGO,Togo,2003,trade_pct_gdp,55.38997842,Trade (% of GDP)
+TGO,Togo,2004,gdp_pc_current_usd,560.2663085,GDP per capita (current US$)
+TGO,Togo,2004,gdp_pc_const2015_usd,678.2875462,GDP per capita (constant 2015 US$)
+TGO,Togo,2004,gdp_growth_pct,-0.978665333,GDP growth (annual %)
+TGO,Togo,2004,gni_pc_atlas_usd,530,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2004,inflation_cpi_pct,0.393078681,"Inflation, consumer prices (annual %)"
+TGO,Togo,2004,gcf_pct_gdp,13.56562662,Gross capital formation (% of GDP)
+TGO,Togo,2004,fdi_net_inflows_pct,2.50559739,FDI net inflows (% of GDP)
+TGO,Togo,2004,trade_pct_gdp,57.87109387,Trade (% of GDP)
+TGO,Togo,2005,gdp_pc_current_usd,551.25985,GDP per capita (current US$)
+TGO,Togo,2005,gdp_pc_const2015_usd,630.2486283,GDP per capita (constant 2015 US$)
+TGO,Togo,2005,gdp_growth_pct,-4.666299384,GDP growth (annual %)
+TGO,Togo,2005,gni_pc_atlas_usd,550,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2005,inflation_cpi_pct,6.78292893,"Inflation, consumer prices (annual %)"
+TGO,Togo,2005,gcf_pct_gdp,14.4880527,Gross capital formation (% of GDP)
+TGO,Togo,2005,fdi_net_inflows_pct,2.979710359,FDI net inflows (% of GDP)
+TGO,Togo,2005,trade_pct_gdp,61.45428001,Trade (% of GDP)
+TGO,Togo,2006,gdp_pc_current_usd,552.5022713,GDP per capita (current US$)
+TGO,Togo,2006,gdp_pc_const2015_usd,629.0798559,GDP per capita (constant 2015 US$)
+TGO,Togo,2006,gdp_growth_pct,2.650132099,GDP growth (annual %)
+TGO,Togo,2006,gni_pc_atlas_usd,560,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2006,inflation_cpi_pct,2.228977794,"Inflation, consumer prices (annual %)"
+TGO,Togo,2006,gcf_pct_gdp,16.20295919,Gross capital formation (% of GDP)
+TGO,Togo,2006,fdi_net_inflows_pct,2.752161444,FDI net inflows (% of GDP)
+TGO,Togo,2006,trade_pct_gdp,61.61286046,Trade (% of GDP)
+TGO,Togo,2007,gdp_pc_current_usd,607.5882245,GDP per capita (current US$)
+TGO,Togo,2007,gdp_pc_const2015_usd,603.8378964,GDP per capita (constant 2015 US$)
+TGO,Togo,2007,gdp_growth_pct,-1.175120392,GDP growth (annual %)
+TGO,Togo,2007,gni_pc_atlas_usd,570,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2007,inflation_cpi_pct,0.945673272,"Inflation, consumer prices (annual %)"
+TGO,Togo,2007,gcf_pct_gdp,15.93056539,Gross capital formation (% of GDP)
+TGO,Togo,2007,fdi_net_inflows_pct,1.659770864,FDI net inflows (% of GDP)
+TGO,Togo,2007,trade_pct_gdp,60.92747833,Trade (% of GDP)
+TGO,Togo,2008,gdp_pc_current_usd,718.9487864,GDP per capita (current US$)
+TGO,Togo,2008,gdp_pc_const2015_usd,610.4056557,GDP per capita (constant 2015 US$)
+TGO,Togo,2008,gdp_growth_pct,4.035645276,GDP growth (annual %)
+TGO,Togo,2008,gni_pc_atlas_usd,640,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2008,inflation_cpi_pct,8.694828144,"Inflation, consumer prices (annual %)"
+TGO,Togo,2008,gcf_pct_gdp,16.74682356,Gross capital formation (% of GDP)
+TGO,Togo,2008,fdi_net_inflows_pct,1.111466324,FDI net inflows (% of GDP)
+TGO,Togo,2008,trade_pct_gdp,61.44248006,Trade (% of GDP)
+TGO,Togo,2009,gdp_pc_current_usd,720.6941688,GDP per capita (current US$)
+TGO,Togo,2009,gdp_pc_const2015_usd,625.7118367,GDP per capita (constant 2015 US$)
+TGO,Togo,2009,gdp_growth_pct,5.453823993,GDP growth (annual %)
+TGO,Togo,2009,gni_pc_atlas_usd,710,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2009,inflation_cpi_pct,3.71360592,"Inflation, consumer prices (annual %)"
+TGO,Togo,2009,gcf_pct_gdp,17.25378612,Gross capital formation (% of GDP)
+TGO,Togo,2009,fdi_net_inflows_pct,0.980634604,FDI net inflows (% of GDP)
+TGO,Togo,2009,trade_pct_gdp,61.33340732,Trade (% of GDP)
+TGO,Togo,2010,gdp_pc_current_usd,704.9871642,GDP per capita (current US$)
+TGO,Togo,2010,gdp_pc_const2015_usd,644.5637303,GDP per capita (constant 2015 US$)
+TGO,Togo,2010,gdp_growth_pct,5.854352694,GDP growth (annual %)
+TGO,Togo,2010,gni_pc_atlas_usd,740,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2010,inflation_cpi_pct,1.445945174,"Inflation, consumer prices (annual %)"
+TGO,Togo,2010,gcf_pct_gdp,17.89321114,Gross capital formation (% of GDP)
+TGO,Togo,2010,fdi_net_inflows_pct,2.634931267,FDI net inflows (% of GDP)
+TGO,Togo,2010,trade_pct_gdp,65.85679206,Trade (% of GDP)
+TGO,Togo,2011,gdp_pc_current_usd,783.9893805,GDP per capita (current US$)
+TGO,Togo,2011,gdp_pc_const2015_usd,663.9637781,GDP per capita (constant 2015 US$)
+TGO,Togo,2011,gdp_growth_pct,5.823252237,GDP growth (annual %)
+TGO,Togo,2011,gni_pc_atlas_usd,800,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2011,inflation_cpi_pct,3.563514729,"Inflation, consumer prices (annual %)"
+TGO,Togo,2011,gcf_pct_gdp,21.59341188,Gross capital formation (% of GDP)
+TGO,Togo,2011,fdi_net_inflows_pct,13.43879485,FDI net inflows (% of GDP)
+TGO,Togo,2011,trade_pct_gdp,76.65527426,Trade (% of GDP)
+TGO,Togo,2012,gdp_pc_current_usd,762.3920476,GDP per capita (current US$)
+TGO,Togo,2012,gdp_pc_const2015_usd,687.4957957,GDP per capita (constant 2015 US$)
+TGO,Togo,2012,gdp_growth_pct,6.302695421,GDP growth (annual %)
+TGO,Togo,2012,gni_pc_atlas_usd,790,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2012,inflation_cpi_pct,2.577181741,"Inflation, consumer prices (annual %)"
+TGO,Togo,2012,gcf_pct_gdp,19.54996711,Gross capital formation (% of GDP)
+TGO,Togo,2012,fdi_net_inflows_pct,2.244584154,FDI net inflows (% of GDP)
+TGO,Togo,2012,trade_pct_gdp,74.6110977,Trade (% of GDP)
+TGO,Togo,2013,gdp_pc_current_usd,826.5432595,GDP per capita (current US$)
+TGO,Togo,2013,gdp_pc_const2015_usd,709.0923042,GDP per capita (constant 2015 US$)
+TGO,Togo,2013,gdp_growth_pct,5.824265832,GDP growth (annual %)
+TGO,Togo,2013,gni_pc_atlas_usd,830,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2013,inflation_cpi_pct,1.825394759,"Inflation, consumer prices (annual %)"
+TGO,Togo,2013,gcf_pct_gdp,19.95189721,Gross capital formation (% of GDP)
+TGO,Togo,2013,fdi_net_inflows_pct,3.048943712,FDI net inflows (% of GDP)
+TGO,Togo,2013,trade_pct_gdp,80.99058865,Trade (% of GDP)
+TGO,Togo,2014,gdp_pc_current_usd,855.5852849,GDP per capita (current US$)
+TGO,Togo,2014,gdp_pc_const2015_usd,730.2915254,GDP per capita (constant 2015 US$)
+TGO,Togo,2014,gdp_growth_pct,5.633240218,GDP growth (annual %)
+TGO,Togo,2014,gni_pc_atlas_usd,850,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2014,inflation_cpi_pct,0.190875076,"Inflation, consumer prices (annual %)"
+TGO,Togo,2014,gcf_pct_gdp,23.33016881,Gross capital formation (% of GDP)
+TGO,Togo,2014,fdi_net_inflows_pct,0.844949995,FDI net inflows (% of GDP)
+TGO,Togo,2014,trade_pct_gdp,69.92374668,Trade (% of GDP)
+TGO,Togo,2015,gdp_pc_current_usd,751.0524051,GDP per capita (current US$)
+TGO,Togo,2015,gdp_pc_const2015_usd,751.0524051,GDP per capita (constant 2015 US$)
+TGO,Togo,2015,gdp_growth_pct,5.468031293,GDP growth (annual %)
+TGO,Togo,2015,gni_pc_atlas_usd,840,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2015,inflation_cpi_pct,2.585003908,"Inflation, consumer prices (annual %)"
+TGO,Togo,2015,gcf_pct_gdp,25.10298714,Gross capital formation (% of GDP)
+TGO,Togo,2015,fdi_net_inflows_pct,4.480267261,FDI net inflows (% of GDP)
+TGO,Togo,2015,trade_pct_gdp,68.20008842,Trade (% of GDP)
+TGO,Togo,2016,gdp_pc_current_usd,772.5817871,GDP per capita (current US$)
+TGO,Togo,2016,gdp_pc_const2015_usd,763.2765491,GDP per capita (constant 2015 US$)
+TGO,Togo,2016,gdp_growth_pct,4.214895609,GDP growth (annual %)
+TGO,Togo,2016,gni_pc_atlas_usd,800,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2016,inflation_cpi_pct,1.285448471,"Inflation, consumer prices (annual %)"
+TGO,Togo,2016,gcf_pct_gdp,22.34692771,Gross capital formation (% of GDP)
+TGO,Togo,2016,fdi_net_inflows_pct,-0.762757826,FDI net inflows (% of GDP)
+TGO,Togo,2016,trade_pct_gdp,65.52875221,Trade (% of GDP)
+TGO,Togo,2017,gdp_pc_current_usd,792.7654872,GDP per capita (current US$)
+TGO,Togo,2017,gdp_pc_const2015_usd,774.2769091,GDP per capita (constant 2015 US$)
+TGO,Togo,2017,gdp_growth_pct,4.008133262,GDP growth (annual %)
+TGO,Togo,2017,gni_pc_atlas_usd,770,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2017,inflation_cpi_pct,-0.981889869,"Inflation, consumer prices (annual %)"
+TGO,Togo,2017,gcf_pct_gdp,16.96891262,Gross capital formation (% of GDP)
+TGO,Togo,2017,fdi_net_inflows_pct,1.386454384,FDI net inflows (% of GDP)
+TGO,Togo,2017,trade_pct_gdp,57.60198442,Trade (% of GDP)
+TGO,Togo,2018,gdp_pc_current_usd,851.1308069,GDP per capita (current US$)
+TGO,Togo,2018,gdp_pc_const2015_usd,791.5935324,GDP per capita (constant 2015 US$)
+TGO,Togo,2018,gdp_growth_pct,4.79506027,GDP growth (annual %)
+TGO,Togo,2018,gni_pc_atlas_usd,830,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2018,inflation_cpi_pct,0.927755426,"Inflation, consumer prices (annual %)"
+TGO,Togo,2018,gcf_pct_gdp,17.81554144,Gross capital formation (% of GDP)
+TGO,Togo,2018,fdi_net_inflows_pct,-2.574548034,FDI net inflows (% of GDP)
+TGO,Togo,2018,trade_pct_gdp,57.35580371,Trade (% of GDP)
+TGO,Togo,2019,gdp_pc_current_usd,826.2606541,GDP per capita (current US$)
+TGO,Togo,2019,gdp_pc_const2015_usd,810.5141328,GDP per capita (constant 2015 US$)
+TGO,Togo,2019,gdp_growth_pct,4.922925917,GDP growth (annual %)
+TGO,Togo,2019,gni_pc_atlas_usd,860,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2019,inflation_cpi_pct,0.67465277,"Inflation, consumer prices (annual %)"
+TGO,Togo,2019,gcf_pct_gdp,17.77208269,Gross capital formation (% of GDP)
+TGO,Togo,2019,fdi_net_inflows_pct,4.943691878,FDI net inflows (% of GDP)
+TGO,Togo,2019,trade_pct_gdp,56.1423934,Trade (% of GDP)
+TGO,Togo,2020,gdp_pc_current_usd,853.5782203,GDP per capita (current US$)
+TGO,Togo,2020,gdp_pc_const2015_usd,806.9564904,GDP per capita (constant 2015 US$)
+TGO,Togo,2020,gdp_growth_pct,1.992155019,GDP growth (annual %)
+TGO,Togo,2020,gni_pc_atlas_usd,860,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2020,inflation_cpi_pct,1.699284633,"Inflation, consumer prices (annual %)"
+TGO,Togo,2020,gcf_pct_gdp,21.33090738,Gross capital formation (% of GDP)
+TGO,Togo,2020,fdi_net_inflows_pct,-0.800061439,FDI net inflows (% of GDP)
+TGO,Togo,2020,trade_pct_gdp,55.54853856,Trade (% of GDP)
+TGO,Togo,2021,gdp_pc_current_usd,939.6133738,GDP per capita (current US$)
+TGO,Togo,2021,gdp_pc_const2015_usd,835.1990513,GDP per capita (constant 2015 US$)
+TGO,Togo,2021,gdp_growth_pct,5.990876104,GDP growth (annual %)
+TGO,Togo,2021,gni_pc_atlas_usd,920,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2021,inflation_cpi_pct,4.186215065,"Inflation, consumer prices (annual %)"
+TGO,Togo,2021,gcf_pct_gdp,19.86411675,Gross capital formation (% of GDP)
+TGO,Togo,2021,fdi_net_inflows_pct,-1.632912029,FDI net inflows (% of GDP)
+TGO,Togo,2021,trade_pct_gdp,57.5850135,Trade (% of GDP)
+TGO,Togo,2022,gdp_pc_current_usd,898.7581544,GDP per capita (current US$)
+TGO,Togo,2022,gdp_pc_const2015_usd,862.7637127,GDP per capita (constant 2015 US$)
+TGO,Togo,2022,gdp_growth_pct,5.759542515,GDP growth (annual %)
+TGO,Togo,2022,gni_pc_atlas_usd,970,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2022,inflation_cpi_pct,7.967573616,"Inflation, consumer prices (annual %)"
+TGO,Togo,2022,gcf_pct_gdp,21.41925001,Gross capital formation (% of GDP)
+TGO,Togo,2022,fdi_net_inflows_pct,-2.121319738,FDI net inflows (% of GDP)
+TGO,Togo,2022,trade_pct_gdp,65.48778501,Trade (% of GDP)
+TGO,Togo,2023,gdp_pc_current_usd,985.6975126,GDP per capita (current US$)
+TGO,Togo,2023,gdp_pc_const2015_usd,896.8746869,GDP per capita (constant 2015 US$)
+TGO,Togo,2023,gdp_growth_pct,6.407922156,GDP growth (annual %)
+TGO,Togo,2023,gni_pc_atlas_usd,1000,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2023,inflation_cpi_pct,5.489285681,"Inflation, consumer prices (annual %)"
+TGO,Togo,2023,gcf_pct_gdp,22.95447968,Gross capital formation (% of GDP)
+TGO,Togo,2023,fdi_net_inflows_pct,0.869421367,FDI net inflows (% of GDP)
+TGO,Togo,2023,trade_pct_gdp,61.42735677,Trade (% of GDP)
+TGO,Togo,2024,gdp_pc_current_usd,1043.140929,GDP per capita (current US$)
+TGO,Togo,2024,gdp_pc_const2015_usd,923.4768814,GDP per capita (constant 2015 US$)
+TGO,Togo,2024,gdp_growth_pct,5.300005314,GDP growth (annual %)
+TGO,Togo,2024,gni_pc_atlas_usd,1010,"GNI per capita, Atlas method (current US$)"
+TGO,Togo,2024,inflation_cpi_pct,2.862620741,"Inflation, consumer prices (annual %)"
+TGO,Togo,2024,gcf_pct_gdp,22.29195997,Gross capital formation (% of GDP)
+TGO,Togo,2024,fdi_net_inflows_pct,0.84381433,FDI net inflows (% of GDP)
+TGO,Togo,2024,trade_pct_gdp,62.47424366,Trade (% of GDP)
